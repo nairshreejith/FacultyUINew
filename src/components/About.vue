@@ -3,7 +3,7 @@
     <div class="sixteentosix omt-6 omt-md-25">
       <div
         class="kachelimage header-image"
-        style="background: url('/static/img/aboutus.png')"
+        style="background: url('static/img/aboutus.png')"
       >
         <div class="headline">
           <div class="text-subtitle-2 text-md-h5">About Us</div>
@@ -43,11 +43,9 @@
             <b>brainstorming to implementation </b>with <b>doubt solving sessions</b>, all
             the way through <b>coding and deployment</b>.
           </p>
-
-        
         </div>
         <div class="assignmenttext text-content">
-            <h2 class="text-center"><u>Why Choose Us?</u></h2>
+          <h2 class="text-center"><u>Why Choose Us?</u></h2>
 
           <p>
             <img src="../assets/leader.png" width="20px" alt="Image 1" />
