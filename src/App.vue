@@ -129,7 +129,7 @@
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
                     <div class="col-4">
                       <v-btn
-                        :href="`/best-assignment`"
+                        :href="`best-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -139,7 +139,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/student-assignment`"
+                        :href="`student-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -149,7 +149,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/urgent-assignment`"
+                        :href="`urgent-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -159,7 +159,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/cheap-assignment`"
+                        :href="`cheap-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -169,7 +169,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/academic-writing`"
+                        :href="`academic-writing`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -179,7 +179,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/all-assignment`"
+                        :href="`all-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -189,7 +189,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/online-assignment`"
+                        :href="`online-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -199,7 +199,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/business-management-assignment`"
+                        :href="`business-management-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -209,7 +209,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/project-management-assignment`"
+                        :href="`project-management-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -219,7 +219,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/human-resource-assignment`"
+                        :href="`human-resource-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -229,7 +229,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/economic-assignment`"
+                        :href="`economic-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -239,7 +239,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/hospitality-assignment`"
+                        :href="`hospitality-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -249,7 +249,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/marketing-assignment`"
+                        :href="`marketing-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -259,7 +259,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/healthcare-management`"
+                        :href="`healthcare-management`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -269,7 +269,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/free-assignment`"
+                        :href="`free-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -315,7 +315,7 @@
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
                     <div class="col-4">
                       <v-btn
-                        :href="`/IT-assignment`"
+                        :href="`IT-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -325,7 +325,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/computer-science-assignment`"
+                        :href="`computer-science-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -335,7 +335,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/computer-network-assignment`"
+                        :href="`computer-network-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -345,7 +345,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/technical-assignment`"
+                        :href="`technical-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -355,7 +355,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/matlab-assignment`"
+                        :href="`matlab-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -365,7 +365,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/tableau-assignment`"
+                        :href="`tableau-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -375,7 +375,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/spss-assignment`"
+                        :href="`spss-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -385,7 +385,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/database-management-assignment`"
+                        :href="`database-management-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -395,7 +395,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/cloud-computing-assignment`"
+                        :href="`cloud-computing-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -405,7 +405,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/network-security-assignment`"
+                        :href="`network-security-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -415,7 +415,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/android-development-assignment`"
+                        :href="`android-development-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -425,7 +425,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/machine-learning-assignment`"
+                        :href="`machine-learning-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -435,7 +435,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/artificial-intelligence-assignment`"
+                        :href="`artificial-intelligence-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -445,7 +445,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/data-analysis-assignment`"
+                        :href="`data-analysis-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -455,7 +455,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/excel-assignment`"
+                        :href="`excel-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -465,7 +465,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/cyber-security`"
+                        :href="`cyber-security`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -475,7 +475,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/database-design-assignment`"
+                        :href="`database-design-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -485,7 +485,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/web-development-assignment`"
+                        :href="`web-development-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -495,7 +495,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/IOT-assignment`"
+                        :href="`IOT-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -505,7 +505,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/data-visualization-assignment`"
+                        :href="`data-visualization-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -515,7 +515,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/power-bi-assignment`"
+                        :href="`power-bi-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -571,7 +571,7 @@
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
                     <div class="col-4">
                       <v-btn
-                        :href="`/python-programming`"
+                        :href="`python-programming`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -581,7 +581,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/C-programming-assignment`"
+                        :href="`C-programming-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -591,7 +591,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/java-assignment`"
+                        :href="`java-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -601,7 +601,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/R-assignment`"
+                        :href="`R-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -611,7 +611,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/javascript-assignment`"
+                        :href="`javascript-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -621,7 +621,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/coding-assignment`"
+                        :href="`coding-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -631,7 +631,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/cryptographic-assignment`"
+                        :href="`cryptographic-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -641,7 +641,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/data-structure-assignment`"
+                        :href="`data-structure-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -651,7 +651,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/GO-assignment`"
+                        :href="`GO-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -698,7 +698,7 @@
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
                     <div class="col-4">
                       <v-btn
-                        :href="`/software-engineering-assignment`"
+                        :href="`software-engineering-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -708,7 +708,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/statistics-assignment`"
+                        :href="`statistics-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -718,7 +718,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/math-assignment`"
+                        :href="`math-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -728,7 +728,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/digital-electronics-assignment`"
+                        :href="`digital-electronics-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -738,7 +738,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/engineering-assignment`"
+                        :href="`engineering-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -748,7 +748,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/electrical-engineering-assignment`"
+                        :href="`electrical-engineering-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -758,7 +758,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/civil-engineering-assignment`"
+                        :href="`civil-engineering-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -814,7 +814,7 @@
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
                     <div class="col-4">
                       <v-btn
-                        :href="`/digital-marketing-assignment`"
+                        :href="`digital-marketing-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -824,7 +824,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/strategic-management-assignment`"
+                        :href="`strategic-management-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -834,7 +834,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/leadership-assignment`"
+                        :href="`leadership-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -844,7 +844,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/risk-management-assignment`"
+                        :href="`risk-management-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -854,7 +854,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/supply-chain-assignment`"
+                        :href="`supply-chain-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -864,7 +864,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/kali-linux-assignment`"
+                        :href="`kali-linux-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -874,7 +874,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/block-chain-assignment`"
+                        :href="`block-chain-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -884,7 +884,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/physics-assignment`"
+                        :href="`physics-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -894,7 +894,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        :href="`/chemistry-assignment`"
+                        :href="`chemistry-assignment`"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
