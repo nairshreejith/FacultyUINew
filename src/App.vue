@@ -282,7 +282,7 @@
                     <div class="sixteentonine">
                       <div
                         class="kachelimage block-background-image"
-                        style="background-image: url('/static/img/tools_header.jpg')"
+                        style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
                   </div>
@@ -528,7 +528,7 @@
                     <div class="sixteentonine">
                       <div
                         class="kachelimage block-background-image"
-                        style="background-image: url('/static/img/tools_header.jpg')"
+                        style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
                   </div>
@@ -664,7 +664,7 @@
                     <div class="sixteentonine">
                       <div
                         class="kachelimage block-background-image"
-                        style="background-image: url('/static/img/tools_header.jpg')"
+                        style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
                   </div>
@@ -771,7 +771,7 @@
                     <div class="sixteentonine">
                       <div
                         class="kachelimage block-background-image"
-                        style="background-image: url('/static/img/tools_header.jpg')"
+                        style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
                   </div>
@@ -907,7 +907,7 @@
                     <div class="sixteentonine">
                       <div
                         class="kachelimage block-background-image"
-                        style="background-image: url('/static/img/tools_header.jpg')"
+                        style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
                   </div>

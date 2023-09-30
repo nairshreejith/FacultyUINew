@@ -3,7 +3,7 @@
     <div class="sixteentosix omt-6 omt-md-25">
       <div
         class="kachelimage header-image"
-        style="background: url('/static/img/careerjob.png')"
+        style="background: url('static/img/careerjob.png')"
       >
         <div class="headline">
           <div class="text-subtitle-2 text-md-h5">Career</div>

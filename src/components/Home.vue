@@ -5,7 +5,7 @@
         <div class="col-md-6">
           <div
             class="kachelimage header-image"
-            style="background: url('/static/img/aboutus.png')"
+            style="background: url('static/img/aboutus.png')"
           ></div>
         </div>
         <div class="col-md-6">

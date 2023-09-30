@@ -3,7 +3,7 @@
     <div class="sixteentosix omt-6 omt-md-25">
       <div
         class="kachelimage header-image"
-        style="background: url('/static/img/assignment.png')"
+        style="background: url('static/img/assignment.png')"
       >
         <div class="headline">
           <div class="text-subtitle-2 text-md-h5">Dissertation</div>
