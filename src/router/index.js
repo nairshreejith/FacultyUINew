@@ -5,6 +5,7 @@ import About from "../components/About.vue";
 import Contact from "../components/Contact.vue";
 import FAQ from "../components/FAQ.vue";
 import Career from "../components/Career.vue";
+import Testimonials from "../components/Testimonials.vue";
 //Services
 import Assignment from "../components/Assignment.vue";
 import TechnicalAssignment from "../components/TechnicalAssignment.vue";
