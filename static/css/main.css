@@ -136,7 +136,10 @@ body{
     transform: translateX(-100%);
   }
 }
-
+h4{
+  font-weight: bolder !important;
+  text-decoration: underline !important;
+}
 
 @font-face {
   font-family: noto-sans;
