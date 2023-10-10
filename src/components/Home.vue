@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-6">
           <div class="position-relative">
-            <h2 class="text-white mt-5" style="position: absolute; right: 450px">
+            <h2 class="text-white mt-5" style="position: absolute; right: 410px">
               Assignment Help
             </h2>
             <h4
