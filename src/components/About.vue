@@ -13,35 +13,62 @@
     <div class="row align-items-start toolDetailsPg toolDetailsPgNewWrap">
       <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
         <div class="assignmenttext text-content">
-          <p>
-            The
-            <b>trustable Online Educational Research Platform “Assignment Wallah”</b>
-            is collaborated with <b>experienced researchers</b> to assist students in
-            their academic projects to score well.<b> Expert researchers</b> in our team
-            create non-plagiarized content for study papers. Through online classes and
-            well-communication,our researchers help to enhance knowledge of students. Our
-            Creative Writers are experienced and well-trained to write original content
-            for you. We take pride in our work and believe that it should be
-            <b>100% plagiarism free</b>. We provide high-quality, original content that is
-            accurate and relevant to your topic.
+          <h3 class="text-center">About Assignment Wallah</h3>
+
+          <p class="text-center">
+            Assignment Wallah is an online educational research platform that connects
+            students with experienced researchers who can assist them in high-quality
+            projects that will help them score well. Our team of experts creates
+            non-plagiarized content for study papers and online classes, which helps
+            students enhance their knowledge.
           </p>
 
-          <p>
-            We are here to <b>clear your doubt</b> about your research, education as well
-            as project development which is the main objective of our Team at Assignment
-            Wallah . Our online platform will provide you with the best solution in
-            <b>technical writing</b> and homework help. Our writers have years of
-            experience in the industry and they have been helping students from all over
-            the world with their <b>assignments and projects</b>.
+          <h3 class="text-center">Personal Life:</h3>
+
+          <p class="text-center">
+            The personal life of students is a very important part of their education.
+            Students need to be able to learn in a stress-free environment where they can
+            focus on their studies without worrying about what is happening at home.
+            Student life is important to academic achievement. The study environment
+            should be one in which students can focus on their studies with fewer outside
+            distractions.
           </p>
 
-          <p>
-            At Assignment Wallah, we help professionals like you learn how to
-            <b>develop applications</b> using the technology you prefer. We want to help
-            you with hands-on experience, so you can apply and understand it thoroughly.
-            Our experts can help with any stage of the development process from
-            <b>brainstorming to implementation </b>with <b>doubt solving sessions</b>, all
-            the way through <b>coding and deployment</b>.
+          <h3 class="text-center">Certificates:</h3>
+
+          <p class="text-center">
+            Assignment Wallah helps you easily achieve your goals. We are a team of
+            experienced designers and developers who have been working in this field for
+            years. We proudly display our hard work and achievements!
+          </p>
+
+          <h3 class="text-center">Choose your own pace of study</h3>
+
+          <p class="text-center">Enhance Your Career by Learning in-Demand Skills</p>
+
+          <h3 class="text-center">Request:</h3>
+
+          <p class="text-center">When you request a project from us.</p>
+
+          <h3 class="text-center">Timing:</h3>
+
+          <p class="text-center">
+            We will work with you to make sure that it is completed on time and within
+            your budget.
+          </p>
+
+          <h3 class="text-center">Conducting:</h3>
+
+          <p class="text-center">
+            We conduct revisions on your topic until we are confident that you are
+            satisfied with the results.
+          </p>
+
+          <h3 class="text-center">Review:</h3>
+
+          <p class="text-center">
+            Finally, we will review your project to ensure that it meets all of our
+            quality standards and delivers the results you expect.
           </p>
         </div>
         <div class="assignmenttext text-content">

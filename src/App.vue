@@ -465,7 +465,7 @@
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="cyber-security"
+                        to="cyber-security-assignment"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
@@ -571,7 +571,7 @@
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
                     <div class="col-4">
                       <v-btn
-                        to="python-programming"
+                        to="python-programming-assignment"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text

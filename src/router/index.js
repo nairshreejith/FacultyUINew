@@ -175,7 +175,7 @@ const routes = [
     component: CheapAssignment,
   },
   {
-    path: "/academic-assignment",
+    path: "/academic-writing",
     name: "AcademicWriting",
     component: AcademicWriting,
   },

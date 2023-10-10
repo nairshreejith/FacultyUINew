@@ -39,23 +39,23 @@ export default {
       testimonials: [
         {
           text:
-            "I was struggling with my assignments, but AssignmentWallah came to my rescue. Their expert guidance and timely help made a huge difference in my grades.",
-          author: "John Doe",
+            "I had a tonne of assignments to complete before my semester exams. But, a classmate of mine suggested Assignment Wallah, which offers quick responses. I am pleased with the client care and writing assistance provided by Assignment Wallah. I used this program often, and they guided me through all the solutions, enabling me to receive good grades. Excellent work! Thank you once more, Assignment Wallah.",
+          author: "Emma Hart:",
         },
         {
           text:
-            "AssignmentWallah is a game-changer for students. Their dedication to providing high-quality support is commendable. I highly recommend their services.",
-          author: "Jane Smith",
+            "It is my greatest pleasure to recommend Assignment Wallah. Thank you so much. I discovered this website to be quite trustworthy and was pleased with the assignment wallah team. The result of my assignment surprised me. My lecture granted me full credit for this assignment.",
+          author: "Eddie Johnson",
         },
         {
           text:
-            "The team at AssignmentWallah is simply fantastic. They helped me understand complex concepts and improve my academic performance. Thank you!",
-          author: "David Johnson",
+            "Working with Assignment Wallah has been fantastic! Every admin on the site is helpful and cooperative. When I thought I had lost my direction, the support team would always push me to work harder and reach new milestones.",
+          author: "Jonathan Doe",
         },
         {
           text:
-            "I couldn't have completed my thesis without AssignmentWallah's assistance. Their experts are knowledgeable and reliable.",
-          author: "Sarah Brown",
+            "Hello everyone! Working with Assignment Wallah is a great experience. Every member of the team puts in a lot of effort, and each tutor is respected and gives personalised feedback. The team works extremely hard to make the process simple, and assignment distribution and payment have never been problems.Assignment wallah helps you easily to achieve your goals. We are a team of experienced designers and developers who have been working in this field for years. We proudly display our hard work and achievements!",
+          author: "Mike Edward",
         },
         {
           text:
