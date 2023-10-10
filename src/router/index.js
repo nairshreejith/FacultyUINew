@@ -468,8 +468,8 @@ const routes = [
 ];
 
 const router = new VueRouter({
+  base: '/FacultyUINew/',
   mode: "history",
-  base: process.env.BASE_URL,
   routes,
 });
 
