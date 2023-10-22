@@ -61,13 +61,6 @@ body{
   }
 }
 
-@media (max-width:600px){
-  .assignmenttext
-  {
- display:none
-  }
-}
-
 .sticky-icon {
   position: fixed; /* Set the position to fixed */
   bottom: 45px; /* Adjust the top position as needed */
@@ -632,7 +625,7 @@ header.flex-grow-0{
 }
 
 .kb-header-logo{
-  width:250px !important;
+  width:120px !important;
   height:40px;
 
 }
