@@ -4,7 +4,7 @@
       <v-app-bar
         app
         clipped-left
-        style="height: auto; border-bottom: #003a60 solid d-xl-none"
+        style="height: auto; border-bottom: #003a60 solid"
         class="flex-grow-0"
       >
         <div class="row pl-8 resMobHeader">
@@ -16,7 +16,7 @@
 
               <div class="top-Left-wrap">
                 <img
-                  class="hamburger d-md-none"
+                  class="hamburger mt-5 desktop"
                   src="./assets/hamburger.png"
                   @click.stop="drawer = !drawer"
                 />
@@ -24,19 +24,26 @@
                 <div class="col-md-12 pl-16 px-0 py-0 justify-content-between">
                   <a href="/"
                     ><img
-                      class="mb-4 kb-header-log"
+                      class="mb-4 mt-2 kb-header-logo"
                       src="./assets/assignmentwalalogo.png"
-                      width="150px"
                   /></a>
 
                   <v-btn class="pl-0 contact no-background-hover">
                     <div class="pl-0 mr-5 ml-5">
                       <a href="/"
-                        ><img src="./assets/phonelogo.png" width="25px" />
+                        ><img
+                          src="./assets/phonelogo.png"
+                          class="headerimg"
+                          width="25px"
+                        />
                         <span class="pl-3"> +91-83880 88212</span></a
                       >
                       <a class="pl-3 text-lowercase" href="/"
-                        ><img src="./assets/emailassignment.png" width="25px" />
+                        ><img
+                          src="./assets/emailassignment.png"
+                          class="headerimg"
+                          width="25px"
+                        />
                         <span class="pl-3"> help@assignmentwallah.com</span></a
                       >
                     </div></v-btn
@@ -95,7 +102,7 @@
                   <!-- <v-btn to="/careers"  :ripple="false" class="mr-2 no-background-hover headerbtn mbres text-capitalize" text large>Careers</v-btn> -->
                 </div>
               </div>
-              <div class="row col-7 pb-0 align-self-center">
+              <div class="row col-7 pb-0 align-self-center mobile">
                 <div
                   class="row justify-content-end align-self-center align-self-md-end pr-3 right-menu-bar"
                 ></div>
@@ -938,7 +945,7 @@
       </v-app-bar>
 
       <v-navigation-drawer
-        class="left-nav pt-0 pt-lg-16 d-xl-none"
+        class="left-nav pt-0 resMobHeader"
         v-bind:style="drawer ? 'transform: scaleY(100%)' : 'transform: scaleY(0%)'"
         app
         clipped
@@ -1699,7 +1706,7 @@
       <v-bottom-navigation
         :input-value="footdrawer"
         scroll-target="#scroll-threshold-example"
-        class="pt-1 pl-md-8 text-left"
+        class="pt-1 pl-md-8 text-left mobileForm"
         scroll-threshold="500"
         app
         absolute
@@ -1710,6 +1717,8 @@
       >
         <div class="col-lg-3 ml-5">
           <div class="footer mt-1" v-bind:class="{ open: drawer }">
+            <u class="px-6 footerbtn text-white no-background-hover">Quick Links:</u>
+            <br />
             <a
               :ripple="false"
               text
@@ -1789,6 +1798,10 @@
         </div>
         <div class="col-lg-3">
           <div class="text-white mt-2 ml-5">
+            <u class="footerbtn text-white no-background-hover">Contact Us:</u>
+            <br />
+            <br />
+
             <div href="/">
               <img src="./assets/phonelogo.png" width="30px" class="mr-3" /><span
                 class="text-white"
@@ -1813,20 +1826,24 @@
         </div>
 
         <div class="col-lg-3">
-          <div class="text-white mt-3 ml-5" style="text-align: center">
-            <a href="/" class="mr-5 mt-5"
-              ><img src="./assets/facebooklogo.png" width="35px"
+          <div class="text-white mt-2 ml-5" style="text-align: center">
+            <u class="footerbtn text-white no-background-hover ml-md-20"
+              >Social Media Links:</u
+            >
+            <br />
+
+            <a href="/" class="mt-5 mr-5"
+              ><img src="./assets/facebooklogo.png" width="32px"
             /></a>
             <a href="/" class="ml-3 mt-5 mr-5 mb-2"
-              ><img src="./assets/twitterlogo.png" width="35px"
+              ><img src="./assets/twitterlogo.png" width="32px"
             /></a>
             <a href="/" class="ml-3 mt-5 mr-5"
-              ><img src="./assets/instagramlogo.png" width="35px"
+              ><img src="./assets/instagramlogo.png" width="32px"
             /></a>
             <a href="/" class="ml-3 mt-5 mr-5"
-              ><img src="./assets/linkedinlogo.png" width="35px"
+              ><img src="./assets/linkedinlogo.png" width="32px"
             /></a>
-            <br />
             <p class="mt-5 text-white" style="text-align: center">
               Assignment Wallah Pvt Ltd<br />
               1234 Elm Street<br />
@@ -1836,9 +1853,9 @@
             </p>
           </div>
         </div>
-        <div class="col-lg-3 mt-3 mr-2">
-          <h5 class="text-center">Special Offers*</h5>
-          <p class="text-center text-white">Subscribe to avail our special offers</p>
+        <div class="col-lg-3 mt-2 mr-2">
+          <u class="ml-md-13">Special Offers*</u>
+          <p class="text-white mt-3 ml-md-13">Subscribe to avail our special offers</p>
           <form class="center-content">
             <label for="email" class="mt-4">Email Address*</label>
             <input type="email" id="email" name="email" class="border" required />

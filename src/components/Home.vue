@@ -10,23 +10,24 @@
         </div>
         <div class="col-md-6">
           <div class="position-relative">
-            <h2 class="text-white mt-5" style="position: absolute; right: 410px">
+            <h3
+              class="text-white mt-5 pl-md-13 mobileForm"
+              style="position: absolute; right: 360px"
+            >
               Assignment Help
-            </h2>
-            <h4
-              class="text-white mt-5"
-              style="position: absolute; right: 380px; top: 50px"
+            </h3>
+            <h6
+              class="text-white mt-3 pl-md-13 mobileForm"
+              style="position: absolute; right: 340px; top: 50px"
             >
               Affordable Essay Writing Services
-            </h4>
-            <assignment-request></assignment-request>
+            </h6>
+            <div class="mobileForm">
+              <assignment-request></assignment-request>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-
-    <div class="mt-5 mx-2 d-lg-none">
-      <assignment-request></assignment-request>
     </div>
 
     <div
@@ -85,7 +86,7 @@
         technical team of experts, we will deliver it to you via email.
       </p>
     </div>
-    <img src="../assets/step.png" class="mx-auto d-block" width="1000px" />
+    <img src="../assets/step.png" class="mx-auto d-block" width="500px" />
 
     <div
       class="assignmenttext text-content text-center my-5 col-md-12 pl-md-16 pl-12 px-8 pr-sm-16"

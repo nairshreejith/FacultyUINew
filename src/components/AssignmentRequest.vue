@@ -1,7 +1,7 @@
 <template>
   <div
-    class="container innercreatetraining mt-5 form-container d-none d-lg-block"
-    style="position: absolute; right: 120px; top: 100px"
+    class="container innercreatetraining mt-5 form-container mobileForm"
+    style="position: absolute; right: 70px; top: 100px"
   >
     <h5 class="text-center text-white">
       IT'S TIME CLEAR YOUR DOUBTS FROM<br />ASSIGNMENTWALLAH.COM EXPERTS
