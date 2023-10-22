@@ -109,7 +109,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-12 pl-4 ml-md-16 px-0 py-0 justify-content-between">
+          <div class="col-md-12 ml-md-4 px-0 py-0 justify-content-between">
             <v-menu
               class="menu-content"
               :close-on-content-click="false"
