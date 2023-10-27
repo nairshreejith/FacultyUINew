@@ -1694,10 +1694,7 @@
           </v-list-group>
         </v-list>
       </v-navigation-drawer>
-      <v-main
-        class="mainmobile pt-16 mb-12 mb-md-0"
-        style="padding: 64px 0px 250px 0px !important"
-      >
+      <v-main class="mainmobile mobileFooter pt-16 mb-12 mb-md-0">
         <router-view class="mb-12"></router-view>
       </v-main>
       <div class="sticky-icon">
