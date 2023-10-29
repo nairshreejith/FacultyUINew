@@ -12,13 +12,13 @@
           <div class="position-relative">
             <h5
               class="text-white mt-4 pl-md-13 mobileForm"
-              style="position: absolute; right: 400px"
+              style="position: absolute; right: 400px; font-size: 28px"
             >
               Assignment Help
             </h5>
             <h5
               class="text-white mt-2 pl-md-13 mobileForm"
-              style="position: absolute; right: 340px; top: 50px"
+              style="position: absolute; right: 280px; top: 50px; font-size: 28px"
             >
               Affordable Essay Writing Services
             </h5>

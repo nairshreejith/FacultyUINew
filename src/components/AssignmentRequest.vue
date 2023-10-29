@@ -1,11 +1,11 @@
 <template>
   <div
     class="container innercreatetraining mt-5 form-container mobileForm"
-    style="position: absolute; right: 90px; top: 63px"
+    style="position: absolute; right: 90px; top: 73px"
   >
-    <h5 class="text-center text-white">
+    <h6 class="text-center text-white">
       IT'S TIME CLEAR YOUR DOUBTS FROM<br />ASSIGNMENTWALLAH.COM EXPERTS
-    </h5>
+    </h6>
     <div>
       <div class="row">
         <div class="col-md-6">
