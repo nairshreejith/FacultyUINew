@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container innercreatetraining mt-5 form-container mobileForm"
+    class="assignmentcontainer innercreatetraining mt-5 form-container mobileForm"
     style="position: absolute; right: 90px; top: 73px"
   >
     <h6 class="text-center text-white">
