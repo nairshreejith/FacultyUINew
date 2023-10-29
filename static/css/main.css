@@ -265,7 +265,7 @@ h4{
 }
 
 .left-nav{
-  top: 110px !important;
+  top: 130px !important;
   border-bottom: 2px solid rgb(0, 58, 96);
   width: 100% !important;
   z-index: 56;
@@ -2195,6 +2195,7 @@ div.bg-blue{
          {
            display: none !important;
          }
+   
   }
 
   @media (min-width:1200px){
@@ -2202,6 +2203,11 @@ div.bg-blue{
     .desktop
          {
            display: none !important;
+          
+         }
+         .mobileFooter
+         {
+          padding: 64px 0px 250px 0px !important
          }
   }
   .top-Left-wrap .hamburger {width: 30px;height:30px;}
@@ -2544,7 +2550,8 @@ div.bg-blue{
   @media (max-width:1360px){
 
 
-    .v-toolbar__content .headerbtn {padding: 0px 10px !important;}
+    .v-toolbar__content .headerbtn {padding: 0px 9px !important; font-size:14px !important}
+
   }
 
   @media (max-width:400px){
