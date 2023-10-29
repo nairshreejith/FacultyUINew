@@ -1,7 +1,7 @@
 <template>
   <div
     class="container innercreatetraining mt-5 form-container mobileForm"
-    style="position: absolute; right: 70px; top: 63px"
+    style="position: absolute; right: 90px; top: 63px"
   >
     <h5 class="text-center text-white">
       IT'S TIME CLEAR YOUR DOUBTS FROM<br />ASSIGNMENTWALLAH.COM EXPERTS
@@ -33,7 +33,7 @@
 
           <v-textarea
             hide-details="auto"
-            class="datainput justify-content-end align-self-center pb-1"
+            class="datainput justify-content-end align-self-center"
             dense
             outlined
             :label="'Comments'"
@@ -68,7 +68,7 @@
           <Upload v-model="assignmentDocumentList" multiple allowOtherFileTypes />
         </div>
       </div>
-      <div class="col-md-12 mt-0 text-white">
+      <div class="col-md-12 py-0 mt-0 text-white">
         <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike" />
 
         <v-span class="text-white ml-4 datainput"
@@ -77,7 +77,7 @@
         >
       </div>
 
-      <div class="col-md-12 lastBtnSubmit text-center">
+      <div class="col-md-12 pb-0 lastBtnSubmit text-center">
         <v-btn outlined depressed tile class="savebutton mr-2"
           >Submit <img src="../assets/send.png" width="20px"
         /></v-btn>

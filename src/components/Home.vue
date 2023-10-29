@@ -10,18 +10,18 @@
         </div>
         <div class="col-md-6">
           <div class="position-relative">
-            <h3
-              class="text-white mt-5 pl-md-13 mobileForm"
-              style="position: absolute; right: 360px"
+            <h5
+              class="text-white mt-4 pl-md-13 mobileForm"
+              style="position: absolute; right: 400px"
             >
               Assignment Help
-            </h3>
-            <h6
-              class="text-white mt-3 pl-md-13 mobileForm"
+            </h5>
+            <h5
+              class="text-white mt-2 pl-md-13 mobileForm"
               style="position: absolute; right: 340px; top: 50px"
             >
               Affordable Essay Writing Services
-            </h6>
+            </h5>
             <div class="mobileForm">
               <assignment-request></assignment-request>
             </div>

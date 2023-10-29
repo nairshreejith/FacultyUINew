@@ -112,7 +112,7 @@
           <div class="col-md-12 ml-md-4 px-0 py-0 justify-content-between">
             <v-menu
               class="menu-content"
-              :close-on-content-click="false"
+              :close-on-content-click="true"
               open-on-hover
               tile
               bottom
@@ -299,7 +299,7 @@
 
             <v-menu
               class="menu-content"
-              :close-on-content-click="false"
+              :close-on-content-click="true"
               open-on-hover
               tile
               bottom
@@ -554,7 +554,7 @@
 
             <v-menu
               class="menu-content"
-              :close-on-content-click="false"
+              :close-on-content-click="true"
               open-on-hover
               tile
               bottom
@@ -681,7 +681,7 @@
 
             <v-menu
               class="menu-content"
-              :close-on-content-click="false"
+              :close-on-content-click="true"
               open-on-hover
               tile
               bottom
@@ -797,7 +797,7 @@
 
             <v-menu
               class="menu-content"
-              :close-on-content-click="false"
+              :close-on-content-click="true"
               open-on-hover
               tile
               bottom

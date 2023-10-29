@@ -2550,7 +2550,8 @@ div.bg-blue{
   @media (max-width:1360px){
 
 
-    .v-toolbar__content .headerbtn {padding: 0px 10px !important;}
+    .v-toolbar__content .headerbtn {padding: 0px 9px !important; font-size:14px !important}
+
   }
 
   @media (max-width:400px){
