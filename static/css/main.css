@@ -2554,6 +2554,14 @@ div.bg-blue{
 
   }
 
+  .assignmentcontainer
+  {
+max-width: 900px !important;
+width: 100%;
+padding: 12px;
+margin-right: auto;
+margin-left: auto;
+  }
   @media (max-width:400px){
   
 
