@@ -84,6 +84,11 @@ import BlockChainAssignment from "../components/BlockChainAssignment.vue";
 import PhysicsAssignment from "../components/PhysicsAssignment.vue";
 import ChemistryAssignment from "../components/ChemistryAssignment.vue";
 
+//Others
+import Sample from "../components/Sample.vue";
+import Experts from "../components/Experts.vue";
+import Blog from "../components/Blog.vue";
+
 Vue.use(VueRouter);
 
 const routes = [
@@ -106,6 +111,21 @@ const routes = [
     path: "/contact-us",
     name: "Contact",
     component: Contact,
+  },
+  {
+    path: "/sample",
+    name: "Sample",
+    component: Sample,
+  },
+  {
+    path: "/experts",
+    name: "Experts",
+    component: Experts,
+  },
+  {
+    path: "/blog",
+    name: "Blog",
+    component: Blog,
   },
   {
     path: "/careers",
