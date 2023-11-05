@@ -17,6 +17,11 @@
           <div class="blog-post" v-for="post in blogPosts" :key="post.id">
             <h2>{{ post.title }}</h2>
             <p>{{ post.content }}</p>
+            <div class="post-details">
+              <span class="published-date">Published on: {{ post.publishedDate }}</span
+              ><br />
+              <span class="comments-count">{{ post.commentsCount }} Comments</span>
+            </div>
             <hr />
           </div>
         </div>
@@ -34,36 +39,48 @@ export default {
           title: "Assignment Services",
           content:
             "Explore a variety of assignment services tailored to your needs. From technical assignments to programming tasks, our experts are here to help you succeed.",
+          publishedDate: "October 15, 2023",
+          commentsCount: 10,
         },
         {
           id: 2,
           title: "Assignment Types",
           content:
             "Discover specialized assignment types designed to cater to different subjects and requirements. Whether it's academic writing, online assignments, or business management tasks, we've got you covered.",
+          publishedDate: "October 15, 2023",
+          commentsCount: 10,
         },
         {
           id: 3,
           title: "Technical Assignments Demystified",
           content:
             "Technical assignments can be challenging. Learn how our experts simplify complex IT concepts, computer science problems, and network security challenges to provide top-notch solutions.",
+          publishedDate: "October 15, 2023",
+          commentsCount: 10,
         },
         {
           id: 4,
           title: "Mastering Programming Languages",
           content:
             "From Python and Java to data structures and algorithms, delve into the world of programming with our expert guidance. Enhance your coding skills and tackle intricate programming assignments with confidence.",
+          publishedDate: "October 15, 2023",
+          commentsCount: 10,
         },
         {
           id: 5,
           title: "Engineering Marvels",
           content:
             "Explore the fascinating world of engineering. Our experts cover topics ranging from software engineering best practices to cutting-edge developments in civil engineering. Get insights into the future of engineering.",
+          publishedDate: "October 15, 2023",
+          commentsCount: 10,
         },
         {
           id: 6,
           title: "Higher Order Thinking Skills (HOTS) Challenges",
           content:
             "Sharpen your intellect with our HOTS challenges. Delve into advanced topics such as digital marketing strategies, strategic management techniques, and the revolutionary impact of blockchain technology.",
+          publishedDate: "October 15, 2023",
+          commentsCount: 10,
         },
       ],
     };
