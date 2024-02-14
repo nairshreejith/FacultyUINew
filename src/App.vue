@@ -1088,13 +1088,13 @@
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/free-assignment">
+            <!-- <v-list-item sub-group link class="d-xl-none" to="/free-assignment">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
                   Free Assignment Help
                 </v-list-item-title>
               </v-list-item-content>
-            </v-list-item>
+            </v-list-item> -->
           </v-list-group>
 
           <v-list-group
