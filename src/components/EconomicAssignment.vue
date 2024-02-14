@@ -67,7 +67,7 @@
               Recognize that a large part of contemporary economics is linked to
               mathematics, particularly game theory if you need clarification about the
               strong connections between diverse domains of study. A group of skilled
-              economists named Assignment Wallah has demonstrated outstanding leadership
+              economists named NN IT Soft has demonstrated outstanding leadership
               in economic analysis through their knowledge and skill.
             </p>
             <h4>Providing Economics Assignment Help by Experts</h4>
@@ -180,7 +180,7 @@
               center is available around-the-clock, prepared to assist students who need
               more economics assignment help to carry out our purpose of educating
               students. Fighting with your economics assignment is no longer necessary. So
-              get in touch with Assignment Wallah now!
+              get in touch with NN IT Soft now!
             </p>
           </div>
         </div>

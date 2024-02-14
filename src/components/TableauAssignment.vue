@@ -33,14 +33,14 @@
               is widely used in various academic and professional fields. However,
               mastering Tableau and effectively applying its capabilities can be a
               challenging task for many students. If you find yourself struggling with
-              Tableau assignments, Assignment Wallah is here to provide you with
+              Tableau assignments, NN IT Soft is here to provide you with
               professional assistance. In this article, we'll explore how Assignment
               Wallah helps students achieve academic success in Tableau assignments, the
               topics we cover, and why you should choose us.
             </p>
             <h4>Expertise in Tableau</h4>
             <p>
-              Assignment Wallah boasts a team of experts who are not just proficient
+              NN IT Soft boasts a team of experts who are not just proficient
               writers but also experienced Tableau users. Our experts have a deep
               understanding of Tableau's features, ensuring that they provide you with
               accurate and well-structured solutions for your assignments.
@@ -91,7 +91,7 @@
             </p>
             <h4>5. Plagiarism-Free Guarantee</h4>
             <p>
-              Academic integrity is our top priority. When you choose Assignment Wallah,
+              Academic integrity is our top priority. When you choose NN IT Soft,
               you can rest assured that your Tableau assignments will be entirely free
               from plagiarism. Our experts create each assignment from scratch, ensuring
               that your work is original and adheres to ethical standards.
@@ -108,14 +108,14 @@
             <h4>7. 24/7 Availability and Support</h4>
             <p>
               Academic challenges don't adhere to a strict schedule, and neither do we.
-              Assignment Wallah is available 24/7 to cater to your Tableau assignment
+              NN IT Soft is available 24/7 to cater to your Tableau assignment
               needs. Whether it's a late-night data visualization or an early morning
               assignment crisis, our team is here to assist you whenever you need it.
               Meeting assignment deadlines is crucial in your academic journey. Assignment
               Wallah is committed to delivering your Tableau assignments on time, allowing
               you to submit your work without the stress of last-minute submissions.
             </p>
-            <h4>Why Choose Assignment Wallah for Tableau Assignment Help?</h4>
+            <h4>Why Choose NN IT Soft for Tableau Assignment Help?</h4>
             <p>
               <b>Expertise:</b> Our team of Tableau experts ensures that you receive
               accurate and high-quality solutions.
@@ -141,7 +141,7 @@
               wherever you need help.
             </p>
             <p>
-              When it comes to Tableau assignments, trust Assignment Wallah as your
+              When it comes to Tableau assignments, trust NN IT Soft as your
               academic partner for success. Let us help you excel in your Tableau
               coursework and confidently tackle complex data visualisation and analysis
               tasks.

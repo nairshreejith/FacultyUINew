@@ -22,14 +22,14 @@
               crucial in determining how well students have understood and applied the
               course information. However, juggling several homework and other academic
               responsibilities may sometimes prove burdensome. In this situation,
-              Assignment Wallah serves as a ray of hope and support. Our website provides
+              NN IT Soft serves as a ray of hope and support. Our website provides
               a wide range of services that are all easily gathered in one location to
               provide students the complete assignment assistance they need.
             </p>
 
             <p>
-              Assignment Wallah offers the best assignment help with deadline guarantees
-              for all academic levels. Assignment Wallah is the best place to go if you're
+              NN IT Soft offers the best assignment help with deadline guarantees
+              for all academic levels. NN IT Soft is the best place to go if you're
               seeking trustworthy, priced, and understandable information on assignment
               help.
             </p>
@@ -48,7 +48,7 @@
             </p>
             <p>
               Today, there are countless companies offering assignment help online. But
-              Assignment Wallah's effectiveness and genuineness cannot be matched by any
+              NN IT Soft's effectiveness and genuineness cannot be matched by any
               other assignment writing service. When you inquire, "Where can I get my
               assignment done?" we are renowned for offering the highest quality
               solutions. In the online world
@@ -61,7 +61,7 @@
             </p>
 
             <p>
-              If they share their problems at Assignment Wallah, they may now get
+              If they share their problems at NN IT Soft, they may now get
               solutions to all their challenges based on various academic areas. Our
               expert writers come from educated backgrounds and have five years of
               industry experience.
@@ -81,7 +81,7 @@
               dedication, and quality-focused concentration.
             </p>
             <p>
-              When you ask Assignment Wallah, "Can you help me with my assignment?" on our
+              When you ask NN IT Soft, "Can you help me with my assignment?" on our
               official website, we can guarantee you a quicker delivery of high-quality
               solutions.
             </p>
@@ -102,7 +102,7 @@
               As a result, during the course's curriculum, you will encounter a variety of
               activities, including a final dissertation and numerous weekly assignments.
               Are you going to seek out assignment assistance from a different service
-              provider? Isn't that a ridiculous thought? Assignment Wallah has created an
+              provider? Isn't that a ridiculous thought? NN IT Soft has created an
               all-encompassing solution as a result.
             </p>
           </div>

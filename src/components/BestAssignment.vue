@@ -33,7 +33,7 @@
               professionals is here to help.
             </p>
             <p>
-              Through <b>Assignment Wallah</b>, you have access to a team of professional
+              Through <b>NN IT Soft</b>, you have access to a team of professional
               writers, academic coaches, and content developers who can help you finish
               your assignment.
             </p>
@@ -53,20 +53,20 @@
               quality, passing our internal quality, copy, and originality tests. We are
               knowledgeable and provide authentic writing services for the entirety of
               assignments. If you want topic-relevant, expert-level writing services,
-              you've come to the right place. Employ Assignment Wallah's services
+              you've come to the right place. Employ NN IT Soft's services
               immediately, and we'll take care of all of your responsibilities.
             </p>
             <h4>Our Identity and Our Work</h4>
 
             <p>
-              Our company, Assignment Wallah, is pleased to provide our clients with
+              Our company, NN IT Soft, is pleased to provide our clients with
               life-changing projects, assignments, dissertations, theses, research
               projects, and development projects. Hire assignment writing services for the
               United Kingdom and USA at the most affordable price, with comprehensive
               one-on-one support from devoted customer service representatives.
             </p>
             <p>
-              <b>Assignment Wallah</b> cares about every student and their academic
+              <b>NN IT Soft</b> cares about every student and their academic
               records. Thus we only use qualified writers with experience in creating
               academic research papers and assignments for various levels, including high
               school, college, professional assignment writing, and others.

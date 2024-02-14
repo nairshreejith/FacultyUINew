@@ -156,7 +156,7 @@
             </p>
             <b>Do not overcome yourself; seek help. </b>
             <p>
-              Make the right choice and select Assignment Wallah. It is the most
+              Make the right choice and select NN IT Soft. It is the most
               outstanding custom writing service that provides cost-effective and
               excellent help with business plan assignments. You have complete control
               over the project's deadline and writer.

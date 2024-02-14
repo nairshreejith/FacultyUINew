@@ -48,7 +48,7 @@
               hyper-connected environment.
             </p>
 
-            <p>With Assignment Wallah's IoT assignment help, improve your grades.</p>
+            <p>With NN IT Soft's IoT assignment help, improve your grades.</p>
 
             <p>
               Students frequently receive assignments on complex but proven-to-be
@@ -135,11 +135,11 @@
               </li>
             </ul>
 
-            <h4>IoT with Computing Assignment help with Assignment Wallah</h4>
+            <h4>IoT with Computing Assignment help with NN IT Soft</h4>
 
             <p>
               If you are facing any problems with your assignment, then do not worry. Now
-              Assignment Wallah is here to help you. We are providing online assistance to
+              NN IT Soft is here to help you. We are providing online assistance to
               students who are having problems with their assignments.
             </p>
 
@@ -158,7 +158,7 @@
             </p>
 
             <p>
-              <b>Conclusion:</b> Assignment Wallah is a team of developers, designers, and
+              <b>Conclusion:</b> NN IT Soft is a team of developers, designers, and
               consultants who can help you with your IoT-based projects. We specialize in
               all areas of IoT application development and can provide you with the
               expertise you need to build your own application. From initial design to

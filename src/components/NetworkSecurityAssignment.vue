@@ -92,7 +92,7 @@
 
             <p>
               You may get the best-advanced network design assignment assistance from
-              Assignment Wallah PHD professionals because they are informed and skilled in
+              NN IT Soft PHD professionals because they are informed and skilled in
               performing jobs and assignments related to networking.
             </p>
 
@@ -117,7 +117,7 @@
               Linux and Microsoft Windows are compatible with them.
             </p>
 
-            <p>Assignment Wallah.com offers Cisco Packet Tracer assignment help.</p>
+            <p>NN IT Soft.com offers Cisco Packet Tracer assignment help.</p>
 
             <p>
               One of Cisco Systems' top cross-platform visual simulation tools is called
@@ -127,12 +127,12 @@
             </p>
 
             <p>
-              They turn to Assignment Wallah.com's authors for help when they run into
+              They turn to NN IT Soft.com's authors for help when they run into
               experience barriers when writing their Cisco Packet Tracer assignments.
             </p>
 
             <p>
-              Assignment Wallah takes pride in the fact that every one of our authors has
+              NN IT Soft takes pride in the fact that every one of our authors has
               a PhD from a prestigious organisation and has years of expertise helping
               students with academic report writing, including the Cisco Packet Tracer
               writing service. Our assignment help service constantly provides students

@@ -18,7 +18,7 @@
             <p>
               When it comes to assignments, are you a man of action, or do you find it
               challenging to produce quality writing? Sometimes you may use a little help
-              because only some are perfect students. Thus, Assignment Wallah fills that
+              because only some are perfect students. Thus, NN IT Soft fills that
               role. We provide assignment writing that you can use to increase your
               confidence.
             </p>
@@ -96,7 +96,7 @@
             </p>
 
             <p>
-              The writers at <b>Assignment Wallah</b> are accessible 24/7 and have the
+              The writers at <b>NN IT Soft</b> are accessible 24/7 and have the
               academic qualifications you need to succeed in university. Your education
               could be gained by utilizing our services; every student who does so keeps
               returning for more.

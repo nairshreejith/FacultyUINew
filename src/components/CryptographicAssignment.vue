@@ -169,7 +169,7 @@
               also.
             </p>
 
-            <h4>How Can Students Across Universities Benefit from Assignment Wallah?</h4>
+            <h4>How Can Students Across Universities Benefit from NN IT Soft?</h4>
 
             <p>
               <b>Keep the deadline in mind:</b> Since students are frequently preoccupied
@@ -189,7 +189,7 @@
             <p>
               <b>A knowledgeable team of experts:</b> Many assignment help services are
               available worldwide, but not all provide high-quality services. You can
-              access a broad group of knowledgeable specialists at AssignmentWallah.com
+              access a broad group of knowledgeable specialists at NN IT SOFT.com
               who have received high-quality PhDs and Master's degrees, allowing them to
               create well-articulated assignments for students in various fields.
             </p>
@@ -215,7 +215,7 @@
 
             <p>
               Due to their pricing components, if you have been reluctant to get
-              Cryptography Assignment Help, you can now relax. Assignment Wallah Contact
+              Cryptography Assignment Help, you can now relax. NN IT Soft Contact
               us as soon as possible to take advantage of the best selection of
               assignments written solely by a diverse group of seasoned writers and
               professionals with in-depth knowledge on a wide range of topics and domains.

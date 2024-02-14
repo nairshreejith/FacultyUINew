@@ -105,7 +105,7 @@
               One of the subjects with the most complicated calculations in mathematics.
               As a result, students who struggle with math difficulties frequently ask for
               assistance from math professionals. Here are a few more explanations of why
-              students turn to companies like AssignmentWallah.com for online help with
+              students turn to companies like NN IT SOFT.com for online help with
               their math assignments.
             </p>
 

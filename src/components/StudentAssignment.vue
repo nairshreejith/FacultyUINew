@@ -21,7 +21,7 @@
               you need not worry at all. We have your back covered.
             </p>
             <p>
-              AssignmentWallah.com is available to every student in need of online
+              NN IT SOFT.com is available to every student in need of online
               assignment assistance. We offer the simplest and most effective approach to
               assisting students in achieving the highest academic grades.
             </p>
@@ -56,7 +56,7 @@
               need help to deliver the kind of assignment required by their professors.
             </p>
             <p>
-              For millions of students throughout the globe, "Assignment Wallah" is more
+              For millions of students throughout the globe, "NN IT Soft" is more
               than simply a service; it serves as an essential resource. Our company's
               goal is to help students with assignments in any subject matter.
             </p>
@@ -66,7 +66,7 @@
               on it. You can ask one of our professionals to attend your online class on
               your behalf if you are studying any subject online.
             </p>
-            <p><b>Assignment wallah helps you to Meet Deadlines More.</b></p>
+            <p><b>NN IT Soft helps you to Meet Deadlines More.</b></p>
             <p>
               Every student must complete their assignments on time, particularly if they
               want excellent grades. However, what can you do if you are unable to meet a
@@ -74,7 +74,7 @@
               Wallah can help you reach your deadlines at reasonable prices.
             </p>
             <p>
-              Complete the online form, and Assignment Wallah will get to work. They will
+              Complete the online form, and NN IT Soft will get to work. They will
               assist you in organising your work and meeting your deadlines. In addition,
               they will provide you with feedback on your work so that you can develop
               your abilities.
@@ -88,11 +88,11 @@
             </p>
             <p>
               There is an easy solution to this problem. And that solution is to outsource
-              your assignment help from Assignment Wallah. It is an online marketplace
+              your assignment help from NN IT Soft. It is an online marketplace
               that provides students with professional assignment help.
             </p>
             <p>
-              Assignment Wallah is a company dedicated to providing comprehensive support
+              NN IT Soft is a company dedicated to providing comprehensive support
               to students struggling with their assignments. With a team of highly
               qualified professionals and a commitment to academic excellence, Assignment
               Wallah has become a go-to resource for students across various educational

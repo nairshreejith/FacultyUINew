@@ -175,7 +175,7 @@
               also results in significant flaws and restrictions in the planning and
               completion of the tasks. To obtain good grades and develop efficiency and
               expertise in strategic management, students find it better to seek writing
-              assistance for their strategic management assignments. Assignment Wallah:
+              assistance for their strategic management assignments. NN IT Soft:
               Your Partner for Strategic Management Assignment Help
             </p>
 
@@ -219,7 +219,7 @@
 
             <p>
               We are committed to your success and strive to provide the best possible
-              experience for you. Choose Assignment Wallah for your strategic management
+              experience for you. Choose NN IT Soft for your strategic management
               assignment needs, and watch your grades soar!
             </p>
           </div>

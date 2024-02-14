@@ -4,7 +4,7 @@
     style="position: absolute; right: 90px; top: 73px"
   >
     <h6 class="text-center text-white">
-      IT'S TIME CLEAR YOUR DOUBTS FROM<br />ASSIGNMENTWALLAH.COM EXPERTS
+      IT'S TIME CLEAR YOUR DOUBTS FROM<br />NN IT SOFT.COM EXPERTS
     </h6>
     <div>
       <div class="row">

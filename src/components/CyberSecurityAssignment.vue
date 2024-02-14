@@ -15,7 +15,7 @@
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
             <h4>
-              Safeguarding the Digital Frontier with Assignment Wallah: Your Partner in
+              Safeguarding the Digital Frontier with NN IT Soft: Your Partner in
               Cybersecurity
             </h4>
 
@@ -30,20 +30,20 @@
               offer expert guidance to ensure your academic and professional success. In
               this comprehensive guide, we'll delve into the significance of
               Cybersecurity, explore the diverse topics we cover, and unveil why
-              Assignment Wallah is your ultimate partner for mastering the art of digital
+              NN IT Soft is your ultimate partner for mastering the art of digital
               defense.
             </p>
 
             <p>
               <b
-                >Assignment wallah Provides services for network scanning assignment
+                >NN IT Soft Provides services for network scanning assignment
                 help</b
               >
             </p>
             <p>
               To keep up with the requirements of the networking field you are in, you
               must keep your technical skills updated for advancing in your career. There
-              are many top and best assignment help providers, but Assignmentwallah.com is
+              are many top and best assignment help providers, but NN IT SOFT.com is
               the best one for completing your technical assignments on time without fail.
               The success rate of this assignment help provider is celebrated by their own
               satisfied clients and also by organisations across the globe as well. We
@@ -87,7 +87,7 @@
 
             <p>
               <b>The Cybersecurity domain is vast, with numerous subfields and topics.</b>
-              At Assignment Wallah, we offer guidance in a wide range of Cybersecurity
+              At NN IT Soft, we offer guidance in a wide range of Cybersecurity
               subjects, including:
             </p>
 
@@ -118,7 +118,7 @@
               policies and ensure compliance with industry standards and regulations.
             </p>
 
-            <h4>Assignment Wallah's Expert Guidance</h4>
+            <h4>NN IT Soft's Expert Guidance</h4>
 
             <p>
               <b
@@ -147,7 +147,7 @@
               hacking and protecting digital assets.
             </p>
 
-            <h4>Why Choose Assignment Wallah for Cybersecurity Assistance?</h4>
+            <h4>Why Choose NN IT Soft for Cybersecurity Assistance?</h4>
 
             <p>
               <b
@@ -188,13 +188,13 @@
             <p>
               <b
                 >As you embark on this journey into the realm of Cybersecurity, remember
-                that Assignment Wallah is your trusty guardian.</b
+                that NN IT Soft is your trusty guardian.</b
               >
               Together, we'll navigate the territories of network security, web security,
               malware analysis, incident response, ethical hacking, and security policies.
               <b
                 >Your academic success in the Cybersecurity universe begins with
-                Assignment Wallah—your gateway to becoming a digital defender of the
+                NN IT Soft—your gateway to becoming a digital defender of the
                 highest order!</b
               >
             </p>

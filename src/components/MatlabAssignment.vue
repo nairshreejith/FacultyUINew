@@ -41,7 +41,7 @@
               use MATLAB.
             </p>
             <h4>
-              Writing Help for MATLAB Assignments from Assignment Wallah's Qualified
+              Writing Help for MATLAB Assignments from NN IT Soft's Qualified
               Experts
             </h4>
             <p>
@@ -59,7 +59,7 @@
             </p>
 
             <p>
-              At Assignment Wallah, our qualified experts approach MATLAB assignments with
+              At NN IT Soft, our qualified experts approach MATLAB assignments with
               precision and expertise. First, we thoroughly analyze the assignment,
               dissecting its requirements and understanding the specific tasks involved.
               Next, our experts leverage their in-depth knowledge of MATLAB to craft
@@ -70,22 +70,22 @@
               revisions and feedback to ensure your complete satisfaction. Trust us to
               deliver top-quality MATLAB assignments that elevate your academic success.
             </p>
-            <h4>Process of doing the MATLAB assignments in Assignment Wallah</h4>
+            <h4>Process of doing the MATLAB assignments in NN IT Soft</h4>
             <p>
               Assignments involving MATLAB can be complex, but with the right approach,
-              you can tackle them effectively with Assignment Wallah. Here's a
+              you can tackle them effectively with NN IT Soft. Here's a
               step-by-step process for how to go about getting MATLAB assignments done
-              through Assignment Wallah:
+              through NN IT Soft:
             </p>
             <b>1. Assignment Submission:</b>
             <p>
-              - Begin by submitting your MATLAB assignment details to Assignment Wallah.
+              - Begin by submitting your MATLAB assignment details to NN IT Soft.
               Provide all the necessary information, including assignment instructions,
               any specific requirements, and the deadline.
             </p>
             <b>2. Assignment Analysis: </b>
             <p>
-              - Assignment Wallah's team of MATLAB experts will carefully analyze your
+              - NN IT Soft's team of MATLAB experts will carefully analyze your
               assignment requirements. They will assess the scope of the task, the MATLAB
               functions or algorithms required, and any specific objectives you need to
               achieve.
@@ -117,7 +117,7 @@
             </p>
             <b>7. Plagiarism Check:</b>
             <p>
-              - Assignment Wallah places a strong emphasis on academic integrity. Before
+              - NN IT Soft places a strong emphasis on academic integrity. Before
               delivering the solution, we perform a plagiarism check to ensure that the
               MATLAB assignment is entirely original and free from any unauthorized
               sources.
@@ -135,7 +135,7 @@
             </p>
             <b>10. Revisions and Feedback:</b>
             <p>
-              - Assignment Wallah offers the option for revisions and feedback. If you
+              - NN IT Soft offers the option for revisions and feedback. If you
               have any specific revisions or additional requirements, you can communicate
               them to our team. We are committed to ensuring your complete satisfaction.
             </p>
@@ -146,7 +146,7 @@
               and demonstrates your understanding of MATLAB concepts.
             </p>
             <p>
-              Through following this process, Assignment Wallah ensures that your MATLAB
+              Through following this process, NN IT Soft ensures that your MATLAB
               assignments are handled professionally, customised to your needs, and
               delivered with a focus on academic excellence. Trust us as your academic
               partner for MATLAB assignments, and let us help you achieve your academic

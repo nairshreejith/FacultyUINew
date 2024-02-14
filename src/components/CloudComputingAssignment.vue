@@ -15,7 +15,7 @@
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
             <h4>
-              Ascend to the Cloud with Assignment Wallah: Unveiling the Power of Cloud
+              Ascend to the Cloud with NN IT Soft: Unveiling the Power of Cloud
               Computing
             </h4>
 
@@ -26,10 +26,10 @@
               >
               For students, understanding Cloud Computing isn't just about academic
               success; it's about being at the forefront of technological innovation. At
-              Assignment Wallah, we recognize the significance of Cloud Computing
+              NN IT Soft, we recognize the significance of Cloud Computing
               education and offer expert assistance to ensure your academic triumph. In
               this illuminating guide, we'll uncover the importance of Cloud Computing,
-              explore the diverse topics we cover, and reveal why Assignment Wallah is
+              explore the diverse topics we cover, and reveal why NN IT Soft is
               your ultimate partner for conquering cloud-related challenges.
             </p>
 
@@ -63,7 +63,7 @@
               frequently search the internet for the best cloud computing assignment help.
             </p>
             <p>
-              Assignment Wallah staff of cloud computing specialists is on hand around the
+              NN IT Soft staff of cloud computing specialists is on hand around the
               clock to address any issues that may arise. At a reasonable cost, you may
               obtain the greatest assistance with your cloud computing assignments.
             </p>
@@ -104,7 +104,7 @@
                 >The Cloud Computing universe is vast, with numerous stars of topics and
                 subjects.</b
               >
-              At Assignment Wallah, we offer guidance in a wide range of Cloud Computing
+              At NN IT Soft, we offer guidance in a wide range of Cloud Computing
               subjects, including:
             </p>
 
@@ -134,7 +134,7 @@
               where you focus on code, and the cloud provider handles infrastructure.
             </p>
 
-            <h4>Assignment Wallah's Expert Guidance</h4>
+            <h4>NN IT Soft's Expert Guidance</h4>
 
             <p>
               <b
@@ -162,7 +162,7 @@
               machines, configuring databases, and deploying applications.
             </p>
 
-            <h4>Why Choose Assignment Wallah for Cloud Computing Assistance?</h4>
+            <h4>Why Choose NN IT Soft for Cloud Computing Assistance?</h4>
 
             <p>
               <b
@@ -201,13 +201,13 @@
             <p>
               <b
                 >As you embark on this journey into the Cloud Computing cosmos, remember
-                that Assignment Wallah is your trusty compass.</b
+                that NN IT Soft is your trusty compass.</b
               >
               Together, we'll navigate the territories of cloud service models, security,
               architecture, and emerging trends like serverless computing.
               <b
                 >Your academic success in the Cloud Computing universe begins with
-                Assignment Wallah—your gateway to conquering the digital skies!</b
+                NN IT Soft—your gateway to conquering the digital skies!</b
               >
             </p>
           </div>

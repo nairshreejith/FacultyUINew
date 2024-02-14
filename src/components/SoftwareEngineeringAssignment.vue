@@ -165,7 +165,7 @@
             <h4>Reasons to contact us for your Assignment</h4>
 
             <p>
-              Assignment Wallah is One of the most popular tasks completed by our experts
+              NN IT Soft is One of the most popular tasks completed by our experts
               is completing Software Engineering assignments, and we are an effective
               source of this help in India. Students from varied backgrounds can deepen
               their understanding of science, technology, correspondence, etc. Our

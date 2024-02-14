@@ -14,7 +14,7 @@
       <div class="row align-items-start toolDetailsPg toolDetailsPgNewWrap">
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
-            <h4>Chemistry Assignment Help- Assignment Wallah</h4>
+            <h4>Chemistry Assignment Help- NN IT Soft</h4>
 
             <p>Introduction</p>
 

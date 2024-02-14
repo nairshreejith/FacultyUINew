@@ -32,12 +32,12 @@
             </p>
 
             <p>
-              AssignmentWallah.Com, the group of academics and professionals known as
+              NN IT SOFT.Com, the group of academics and professionals known as
               experts, will assist you in creating blockchain technology assignments that
               are thoroughly researched, adequately organized, referenced, and free of
               plagiarism. Students cannot write Blockchain assignments for a variety of
               reasons. Thus one of the best decisions they can make is to seek
-              professional help from AssignmentWallah Experts.
+              professional help from NN IT SOFT Experts.
             </p>
 
             <h4>What is Block Chain Technology?</h4>

@@ -40,7 +40,7 @@
               The process of writing a thesis must be finished concurrently with the
               research. To prevent language from becoming a barrier to completing your
               thesis, our advisors assist you with reference writing and developmental
-              editing of your work. You can contact Assignment Wallah for Thesis Services
+              editing of your work. You can contact NN IT Soft for Thesis Services
               today.
             </p>
           </div>

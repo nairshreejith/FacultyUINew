@@ -15,21 +15,21 @@
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
             <h4>
-              Why is AssignmentWallah.com the Best Option for Students who Need Online
+              Why is NN IT SOFT.com the Best Option for Students who Need Online
               Assignment Help?
             </h4>
 
             <p>
               When you decide it's time to seek the help of an online assignment help
               service, you must put your trust in the most reputable website. And nothing
-              can compete with AssignmentWallah.com, a complete platform that carefully
+              can compete with NN IT SOFT.com, a complete platform that carefully
               handles each assignment. They even guarantee that the assignments will be
               finished by the deadline. What else? It is affordable.
             </p>
 
             <p>
               We constantly offer reliable help with writing assignments. As a result, if
-              you must have faith, only AssignmentWallah.com may be trusted.
+              you must have faith, only NN IT SOFT.com may be trusted.
             </p>
             <p>
               You can easily find online assignment help for a wide range of courses. We

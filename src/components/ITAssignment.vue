@@ -14,7 +14,7 @@
       <div class="row align-items-start toolDetailsPg toolDetailsPgNewWrap">
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
-            <h4>Elevate Your IT Assignments with Assignment Wallah's Expertise</h4>
+            <h4>Elevate Your IT Assignments with NN IT Soft's Expertise</h4>
 
             <p>
               A vast field, information technology, or IT, is concerned with all minor and
@@ -25,9 +25,9 @@
               operating system of every computer integrated through that server, even
               though, in the generic sense, it is used to define computer networks. The
               most excellent place to get IT experts who are top-notch in the area of
-              information technology assignment help is Assignment Wallah. In this
+              information technology assignment help is NN IT Soft. In this
               insightful guide, we'll uncover the importance of IT assignments, explore
-              the diverse topics we cover, and reveal why Assignment Wallah is your
+              the diverse topics we cover, and reveal why NN IT Soft is your
               ultimate choice for conquering IT challenges.
             </p>
 
@@ -60,7 +60,7 @@
             <p>
               <b
                 >The field of IT is like a vast galaxy, with countless stars of topics and
-                subjects. At Assignment Wallah, we offer guidance in an extensive range of
+                subjects. At NN IT Soft, we offer guidance in an extensive range of
                 IT subjects, including:</b
               >
             </p>
@@ -94,7 +94,7 @@
               Android platforms, venturing into mobile development frameworks.
             </p>
 
-            <h4>3. Assignment Wallah's Expert Guidance</h4>
+            <h4>3. NN IT Soft's Expert Guidance</h4>
             <p>
               <b
                 >Our experts are not just tech-savvy; they are seasoned navigators in the
@@ -118,10 +118,10 @@
               frameworks, and tools, transforming you into an IT virtuoso.
             </p>
 
-            <h4>4. Why Choose Assignment Wallah for IT Assistance?</h4>
+            <h4>4. Why Choose NN IT Soft for IT Assistance?</h4>
             <p>
               <b
-                >Why should you entrust your IT journey to Assignment Wallah? Here are
+                >Why should you entrust your IT journey to NN IT Soft? Here are
                 compelling reasons:</b
               >
             </p>
@@ -154,10 +154,10 @@
             <p>
               <b
                 >So, as you embark on this adventure into the vast landscape of
-                Information Technology, remember that Assignment Wallah is your trusty
+                Information Technology, remember that NN IT Soft is your trusty
                 compass. Together, we'll navigate the territories of programming, database
                 management, cybersecurity, and beyond. Your academic success in the IT
-                universe begins with Assignment Wallah—your gateway to conquering the
+                universe begins with NN IT Soft—your gateway to conquering the
                 world of technology!</b
               >
             </p>

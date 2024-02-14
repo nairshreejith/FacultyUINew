@@ -19,7 +19,7 @@
             <p>
               Java is a widely used language for developing mobile, desktop, and online
               applications. Java is well-known for its versatility and efficiency in
-              developing scalable and cross-platform software. "Assignment Wallah" is a
+              developing scalable and cross-platform software. "NN IT Soft" is a
               resource for learners to complete their Java assignments. Experts in Java
               programming and assisting students with their projects, everyone on staff
               has it covered. They could help with anything from coding to debugging to

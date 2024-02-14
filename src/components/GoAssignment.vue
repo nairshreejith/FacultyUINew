@@ -35,7 +35,7 @@
             <p>
               One of the reasons students like our Go programming assignment help so much
               is that we give high-quality work and very competitive pricing. The
-              Assignment Wallah team is well-versed in completing the Go programming
+              NN IT Soft team is well-versed in completing the Go programming
               program and has a wealth of experience in this area.
             </p>
 

@@ -26,7 +26,7 @@
               SCM master's programs are offered in well-known colleges and institutions
               worldwide as one of the significant management streams. Students who need
               expert assignment writing help for their writing assignments on a variety of
-              supply chain management topics can turn to AssignmentWallah.
+              supply chain management topics can turn to NN IT SOFT.
             </p>
 
             <h4>Supply Chain Management:</h4>
@@ -129,7 +129,7 @@
             <p>
               The product development teams collaborate with customer relationship
               managers to recognize and address the customers' expressed and implicit
-              needs. You can better understand the procedure by using AssignmentWallah.com
+              needs. You can better understand the procedure by using NN IT SOFT.com
               logistics management assignment help.
             </p>
 
@@ -187,7 +187,7 @@
               </li>
               <li>
                 <b>Proper citations and original work:</b> The experts at
-                AssignmentWallah.com are familiar with the various referencing
+                NN IT SOFT.com are familiar with the various referencing
                 requirements and styles. When a student seeks help with a management
                 assignment or a supply chain management assignment help paper, the content
                 is always backed up by citations to ensure authenticity.
@@ -204,7 +204,7 @@
 
             <p>
               Supply chain management assignment help is available at
-              AssignmentWallah.com.
+              NN IT SOFT.com.
             </p>
 
             <p>

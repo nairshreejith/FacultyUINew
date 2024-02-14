@@ -21,7 +21,7 @@
                 <img src="../assets/location.png" width="20px" />
               </div>
               <div class="text-content text-center">
-                Assignment Wallah Pvt Ltd<br />
+                NN IT Soft Pvt Ltd<br />
                 1234 Elm Street<br />
                 Apt 567<br />
                 Springfield, IL 12345<br />
@@ -59,14 +59,14 @@
                   ><img
                     src="../assets/emailassignment.png"
                     width="50px"
-                  />help@assignmentwallah.com</a
+                  />help@NN IT SOFT.com</a
                 >
                 <br />
                 <a href="/"
                   ><img
                     src="../assets/emaillogo.png"
                     width="50px"
-                  />help.assignmentwallah@gmail.com</a
+                  />help.NN IT SOFT@gmail.com</a
                 >
                 <br />
               </div>

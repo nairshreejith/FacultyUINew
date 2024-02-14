@@ -11,7 +11,7 @@
           <div class="pb-0">
             <div class="row justify-content-between align-self-center menu-bar">
               <div class="top-bar-title scroll-content">
-                Get upto 60% discount on your first Assignment!!!
+                Get upto 60% discount on your first Assignment/Job Support!!!
               </div>
 
               <div class="top-Left-wrap">
@@ -23,9 +23,7 @@
 
                 <div class="col-md-12 pl-16 px-0 py-0 justify-content-between">
                   <a href="/"
-                    ><img
-                      class="mb-4 mt-2 kb-header-logo"
-                      src="./assets/assignmentwalalogo.png"
+                    ><img class="mb-4 mt-2 kb-header-logo" src="./assets/nnitlogo.png"
                   /></a>
 
                   <v-btn class="pl-0 contact no-background-hover">
@@ -44,7 +42,7 @@
                           class="headerimg"
                           width="25px"
                         />
-                        <span class="pl-3"> help@assignmentwallah.com</span></a
+                        <span class="pl-3"> help@NN IT SOFT.com</span></a
                       >
                     </div></v-btn
                   >
@@ -134,7 +132,7 @@
               <v-list class="pt-0 pb-0">
                 <div class="row menu-row">
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
-                    <div class="col-4">
+                    <!-- <div class="col-4">
                       <v-btn
                         to="best-assignment"
                         :ripple="false"
@@ -143,7 +141,7 @@
                         large
                         >Best Assignment Help</v-btn
                       >
-                    </div>
+                    </div> -->
                     <div class="col-4">
                       <v-btn
                         to="student-assignment"
@@ -154,7 +152,7 @@
                         >Student Assignment Help</v-btn
                       >
                     </div>
-                    <div class="col-4">
+                    <!-- <div class="col-4">
                       <v-btn
                         to="urgent-assignment"
                         :ripple="false"
@@ -163,8 +161,8 @@
                         large
                         >Urgent Assignment Help</v-btn
                       >
-                    </div>
-                    <div class="col-4">
+                    </div> -->
+                    <!-- <div class="col-4">
                       <v-btn
                         to="cheap-assignment"
                         :ripple="false"
@@ -173,7 +171,7 @@
                         large
                         >Cheap Assignment Help</v-btn
                       >
-                    </div>
+                    </div> -->
                     <div class="col-4">
                       <v-btn
                         to="academic-writing"
@@ -184,7 +182,7 @@
                         >Academic Writing Help</v-btn
                       >
                     </div>
-                    <div class="col-4">
+                    <!-- <div class="col-4">
                       <v-btn
                         to="all-assignment"
                         :ripple="false"
@@ -193,7 +191,7 @@
                         large
                         >All Assignment Help</v-btn
                       >
-                    </div>
+                    </div> -->
                     <div class="col-4">
                       <v-btn
                         to="online-assignment"
@@ -274,7 +272,7 @@
                         >Healthcare Management Help</v-btn
                       >
                     </div>
-                    <div class="col-4">
+                    <!-- <div class="col-4">
                       <v-btn
                         to="free-assignment"
                         :ripple="false"
@@ -283,7 +281,7 @@
                         large
                         >Free Assignment Help</v-btn
                       >
-                    </div>
+                    </div> -->
                   </div>
                   <div class="col-xl-3 pa-0 d-none d-xl-block">
                     <div class="sixteentonine">
@@ -928,7 +926,7 @@
               class="no-background-hover headerbtn mbres text-capitalize"
               text
               large
-              >Resume Making
+              >Job Support
             </v-btn>
 
             <v-btn
@@ -976,13 +974,13 @@
               </v-list-item-title>
             </template>
 
-            <v-list-item sub-group link class="d-xl-none" to="/best-assignment">
+            <!-- <v-list-item sub-group link class="d-xl-none" to="/best-assignment">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
                   Best Assignment Help
                 </v-list-item-title>
               </v-list-item-content>
-            </v-list-item>
+            </v-list-item> -->
 
             <v-list-item sub-group link class="d-xl-none" to="/student-assignment">
               <v-list-item-content>
@@ -992,21 +990,21 @@
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/urgent-assignment">
+            <!-- <v-list-item sub-group link class="d-xl-none" to="/urgent-assignment">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
                   Urgent Assignment Help
                 </v-list-item-title>
               </v-list-item-content>
-            </v-list-item>
+            </v-list-item> -->
 
-            <v-list-item sub-group link class="d-xl-none" to="/cheap-assignment">
+            <!-- <v-list-item sub-group link class="d-xl-none" to="/cheap-assignment">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
                   Cheap Assignment Help
                 </v-list-item-title>
               </v-list-item-content>
-            </v-list-item>
+            </v-list-item> -->
 
             <v-list-item sub-group link class="d-xl-none" to="/academic-writing-service">
               <v-list-item-content>
@@ -1809,14 +1807,14 @@
             <div href="/">
               <img src="./assets/emailassignment.png" width="35px" class="mr-3" /><span
                 class="text-white"
-                >help@assignmentwallah.com</span
+                >help@NN IT SOFT.com</span
               >
             </div>
             <br />
             <div href="/">
               <img src="./assets/emaillogo.png" width="35px" class="mr-3" /><span
                 class="text-white"
-                >help.assignmentwallah@gmail.com</span
+                >help.NN IT SOFT@gmail.com</span
               >
             </div>
           </div>
@@ -1842,7 +1840,7 @@
               ><img src="./assets/linkedinlogo.png" width="32px"
             /></a>
             <p class="mt-5 text-white" style="text-align: center">
-              Assignment Wallah Pvt Ltd<br />
+              NN IT Soft Pvt Ltd<br />
               1234 Elm Street<br />
               Apt 567<br />
               Springfield, IL 12345<br />
@@ -1862,7 +1860,7 @@
           </form>
         </div>
       </v-bottom-navigation>
-      <!-- <p class="text-center">@2023 AssignmentWallah All CopyRights Reserved</p> -->
+      <!-- <p class="text-center">@2023 NN IT SOFT All CopyRights Reserved</p> -->
     </v-app>
   </div>
 </template>

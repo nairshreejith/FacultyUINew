@@ -19,7 +19,7 @@
             <p>
               <b
                 >Database assignment help is available from the reputable website
-                Assignment Wallah at a reasonable cost. A database is a collection of
+                NN IT Soft at a reasonable cost. A database is a collection of
                 related facts that simulates a real-world entity in some way. You might
                 need help with your database assignment to create schema, design, and
                 model, write queries, or convert database models to relational
@@ -115,7 +115,7 @@
 
             <p>
               <b
-                >At Assignment Wallah, we provide customized solutions based on your
+                >At NN IT Soft, we provide customized solutions based on your
                 specific assignment requirements and the DBMS you are using. Our team of
                 experts ensures that your assignments are not only completed accurately
                 but also meet academic standards and deadlines. Whether you are a beginner
@@ -125,13 +125,13 @@
             </p>
 
             <h4>
-              How Can Assignment Wallah Assist Students with Their Projects Throughout
+              How Can NN IT Soft Assist Students with Their Projects Throughout
               Their Degree Programs?
             </h4>
 
             <p>
               <b
-                >At Assignment Wallah, we understand that succeeding in a degree program
+                >At NN IT Soft, we understand that succeeding in a degree program
                 involves more than just submitting assignments on time. Here's how we
                 support students throughout their academic journey:</b
               >
@@ -164,12 +164,12 @@
             </p>
 
             <h4>
-              Why Should You Choose Assignment Wallah for Your Cybersecurity Projects?
+              Why Should You Choose NN IT Soft for Your Cybersecurity Projects?
             </h4>
 
             <p>
               <b
-                >Choosing Assignment Wallah as your academic partner in cybersecurity has
+                >Choosing NN IT Soft as your academic partner in cybersecurity has
                 several advantages:</b
               >
             </p>
@@ -205,7 +205,7 @@
             </p>
 
             <p>
-              <b>Proven Track Record:</b> Assignment Wallah has a history of helping
+              <b>Proven Track Record:</b> NN IT Soft has a history of helping
               students achieve academic success. Many of our clients have excelled in
               their degree programs with our support.
             </p>

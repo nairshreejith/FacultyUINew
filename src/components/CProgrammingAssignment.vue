@@ -47,7 +47,7 @@
             </p>
 
             <p>
-              Overall, Assignment Wallah C programming assignment help can help students
+              Overall, NN IT Soft C programming assignment help can help students
               gain a deeper understanding of the C programming language and develop the
               skills needed to write efficient, maintainable, and robust code.
             </p>
@@ -129,7 +129,7 @@
               control over system resources and making it more efficient.
             </p>
 
-            <h4>Assignment Wallah Helps for C Programming Code Debugging:</h4>
+            <h4>NN IT Soft Helps for C Programming Code Debugging:</h4>
 
             <h4>I. Understanding the Debugging Process</h4>
 
@@ -191,7 +191,7 @@
             </p>
 
             <p>
-              With the help of Assignment Wallah debugging techniques, students can
+              With the help of NN IT Soft debugging techniques, students can
               improve their coding skills, produce well-written and robust code, and
               become proficient in the C programming language.
             </p>
@@ -225,7 +225,7 @@
             <p>Algorithms for Sorting and Searching</p>
 
             <p>
-              Tutors from AssignmentWallah explain standard sorting and searching
+              Tutors from NN IT SOFT explain standard sorting and searching
               techniques like bubble sort, insertion sort, and binary search.
             </p>
 

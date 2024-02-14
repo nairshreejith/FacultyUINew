@@ -23,15 +23,15 @@
               of topics, from programming and algorithms to data analysis and
               cybersecurity. It's no wonder that students pursuing Computer Science
               degrees often face complex and challenging assignments. If you find yourself
-              struggling with your Computer Science assignments, Assignment Wallah is here
+              struggling with your Computer Science assignments, NN IT Soft is here
               to provide you with the professional help you need. In this article, we'll
-              explore how Assignment Wallah assists students in mastering Computer Science
+              explore how NN IT Soft assists students in mastering Computer Science
               and the wide array of topics we cover.
             </p>
             <h4>1. A Team of Computer Science Expert</h4>
 
             <p>
-              At Assignment Wallah, we've assembled a team of expert Computer Scientists
+              At NN IT Soft, we've assembled a team of expert Computer Scientists
               who are not only proficient writers but also industry professionals with
               years of experience. Our experts are well-versed in the latest trends and
               technologies in the field, ensuring that they provide you with up-to-date
@@ -96,7 +96,7 @@
             </p>
             <h4>5. Plagiarism-Free Guarantee</h4>
             <p>
-              Academic integrity is our top priority. When you choose Assignment Wallah,
+              Academic integrity is our top priority. When you choose NN IT Soft,
               you can rest assured that your Computer Science assignments will be entirely
               free from plagiarism. Our experts create each assignment from scratch,
               ensuring that your work is original and maintains the ethical standards
@@ -114,18 +114,18 @@
             <h4>7. 24/7 Availability and Support</h4>
             <p>
               Academic challenges don't adhere to a strict schedule, and neither do we.
-              Assignment Wallah is available 24/7 to cater to your Computer Science
+              NN IT Soft is available 24/7 to cater to your Computer Science
               assignment needs. Whether it's a late-night coding session or an early
               morning assignment crisis, our team is here to assist you whenever you need
               it.
             </p>
             <p>
               Mastering Computer Science can be a rewarding journey, but it comes with its
-              share of challenges. Assignment Wallah is your trusted partner for
+              share of challenges. NN IT Soft is your trusted partner for
               navigating these challenges and excelling in your Computer Science
               coursework. With our team of expert Computer Scientists, comprehensive
               coverage of topics, customized solutions, on-time delivery, and a commitment
-              to academic integrity, Assignment Wallah is your go-to destination for
+              to academic integrity, NN IT Soft is your go-to destination for
               professional assignment help in Computer Science. Let us accompany you on
               your journey to mastering this dynamic and ever-evolving field.
             </p>

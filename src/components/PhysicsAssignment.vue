@@ -168,7 +168,7 @@
 
             <p>
               The only requirement for receiving high marks is for our specialists at
-              Assignment Wallah Help to follow the university requirements and the marking
+              NN IT Soft Help to follow the university requirements and the marking
               criteria. We provide quality assignments with the finest precision and
               in-depth analytical methods every day of the week to help you.
             </p>

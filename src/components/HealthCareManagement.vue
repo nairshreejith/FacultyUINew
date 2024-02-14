@@ -19,7 +19,7 @@
             <p>
               Do you need help completing your healthcare management assignment? Is
               completing projects on time and making them perfect a nightmare for you?
-              Seek help from Assignment Wallah today.
+              Seek help from NN IT Soft today.
             </p>
 
             <p>
@@ -132,7 +132,7 @@
             </p>
 
             <p>
-              How does Assignment Wallah provide healthcare management assignment help and
+              How does NN IT Soft provide healthcare management assignment help and
               support?
             </p>
 
@@ -144,7 +144,7 @@
 
             <p>
               <b>1. Go to the official website:</b> Students must first visit our official
-              website, Assignment Wallah, to obtain Healthcare Management Assignment Help
+              website, NN IT Soft, to obtain Healthcare Management Assignment Help
               Online from our professionals. There is no signup process, so students can
               easily see and ask our experts for assignment help.
             </p>

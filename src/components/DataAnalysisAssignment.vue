@@ -14,7 +14,7 @@
       <div class="row align-items-start toolDetailsPg toolDetailsPgNewWrap">
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
-            <h4>Unravelling the Power of Data Analytics with Assignment Wallah</h4>
+            <h4>Unravelling the Power of Data Analytics with NN IT Soft</h4>
 
             <p>
               Data analysis is a technique for enhancing and modelling data to obtain
@@ -28,7 +28,7 @@
             <p>
               Welcome to the world of Data Analytics, where raw data transforms into
               valuable insights, propelling businesses, research, and decision-making. At
-              Assignment Wallah, we are your guides on this data-driven journey towards
+              NN IT Soft, we are your guides on this data-driven journey towards
               academic triumph. In this captivating guide, we will decode the significance
               of Data Analytics, explore the topics we cover, and reveal why Assignment
               Wallah is your ideal partner for success.
@@ -79,7 +79,7 @@
                 >Data Analytics is an expansive galaxy teeming with topics and
                 subjects.</b
               >
-              At Assignment Wallah, our experts are well-equipped to guide you through:
+              At NN IT Soft, our experts are well-equipped to guide you through:
             </p>
             <p>
               <b>Data Exploration:</b> Dive into the world of data, understanding its
@@ -110,7 +110,7 @@
               aiding comprehension and decision-making.
             </p>
 
-            <h4>4. Assignment Wallah's Expert Guidance</h4>
+            <h4>4. NN IT Soft's Expert Guidance</h4>
             <p>
               <b
                 >Our experts are not just data enthusiasts; they are experienced
@@ -136,7 +136,7 @@
               such as R, Python, and Excel, equipping you for data analysis.
             </p>
 
-            <h4>5. Why Choose Assignment Wallah for Data Analytics?</h4>
+            <h4>5. Why Choose NN IT Soft for Data Analytics?</h4>
             <p>
               <b
                 >Why should you entrust your Data Analytics journey to Assignment
@@ -174,10 +174,10 @@
             <p>
               <b
                 >So, as you embark on this journey into the realm of Data Analytics,
-                remember that Assignment Wallah is your trusty compass. Together, we'll
+                remember that NN IT Soft is your trusty compass. Together, we'll
                 navigate the landscapes of data exploration, predictive analysis, and data
                 visualisation. Your academic success in the Data Analytics universe begins
-                with Assignment Wallah—your gateway to uncovering the secrets hidden
+                with NN IT Soft—your gateway to uncovering the secrets hidden
                 within data.</b
               >
             </p>

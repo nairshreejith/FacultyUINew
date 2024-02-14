@@ -17,12 +17,12 @@
             <h4>Looking for urgent assignment help?</h4>
             <p>
               Do you need help in an important task right away but lack the time or
-              expertise? In this case, AssignmentWallah.com can save you the trouble.
-              Assignment Wallah has hundreds of skilled professionals who can give
+              expertise? In this case, NN IT SOFT.com can save you the trouble.
+              NN IT Soft has hundreds of skilled professionals who can give
               critical online urgent assignment aid for your tasks.
             </p>
             <p>
-              Assignment Wallah has long provided the requested academic writing to the
+              NN IT Soft has long provided the requested academic writing to the
               student community. Because of this, users of our website give it a 4.9 out
               of 5 ratings. Your quest is over if you are likewise looking for urgent
               assignment help.
@@ -77,7 +77,7 @@
 
             <b>Support with Personalized Sample Solutions:</b>
             <p>
-              At Assignment Wallah, our urgent assignment writing service is our most
+              At NN IT Soft, our urgent assignment writing service is our most
               well-liked service. It is crucial to note that the answer we provide for
               your request for urgent assignment help should only be used as a source of
               information.

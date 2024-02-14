@@ -13,10 +13,10 @@
     <div class="row align-items-start toolDetailsPg toolDetailsPgNewWrap">
       <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
         <div class="assignmenttext text-content">
-          <h3 class="text-center">About Assignment Wallah</h3>
+          <h3 class="text-center">About NN IT Soft</h3>
 
           <p class="text-center">
-            Assignment Wallah is an online educational research platform that connects
+            NN IT Soft is an online educational research platform that connects
             students with experienced researchers who can assist them in high-quality
             projects that will help them score well. Our team of experts creates
             non-plagiarized content for study papers and online classes, which helps
@@ -37,7 +37,7 @@
           <h3 class="text-center">Certificates:</h3>
 
           <p class="text-center">
-            Assignment Wallah helps you easily achieve your goals. We are a team of
+            NN IT Soft helps you easily achieve your goals. We are a team of
             experienced designers and developers who have been working in this field for
             years. We proudly display our hard work and achievements!
           </p>
@@ -105,11 +105,11 @@ export default {
   },
   data() {
     return {
-      featuresText: `Assignment Wallah is a team that’s dedicated to helping you succeed. We do more than just write your assignments—we offer personalized service and attention to detail, so you can be sure that you get the most out of every assignment we help you with.`,
+      featuresText: `NN IT Soft is a team that’s dedicated to helping you succeed. We do more than just write your assignments—we offer personalized service and attention to detail, so you can be sure that you get the most out of every assignment we help you with.`,
       whyChooseUsPoints: [
-        `Assignment Wallah is a Best Industry Leader in providing assignment writing services, homework help, and college essay writing.`,
+        `NN IT Soft is a Best Industry Leader in providing assignment writing services, homework help, and college essay writing.`,
         `If you're looking for a way to learn online at your own pace, we have just the thing. Our online learning platform allows you to learn at your own pace and on your own schedule, so you can get the most out of our courses without having to worry about class times or assignments.`,
-        `Assignment Wallah had a professional certification. We provide the best services to our clients.`,
+        `NN IT Soft had a professional certification. We provide the best services to our clients.`,
       ],
     };
   },

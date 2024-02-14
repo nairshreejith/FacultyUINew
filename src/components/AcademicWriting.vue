@@ -81,7 +81,7 @@
             </p>
             <b> Assignment with the Highest Writing Quality </b>
             <p>
-              Assignment Wallah.com satisfies specific requirements when considering
+              NN IT Soft.com satisfies specific requirements when considering
               academic writing services. We have a unique team of academic writers and
               their team that students can contact.
             </p>
@@ -92,7 +92,7 @@
             </p>
             <b>Assignment of uninterrupted support </b>
             <p>
-              For your convenience, <b>AssignmentWallah.com's</b> live chat is accessible
+              For your convenience, <b>NN IT SOFT.com's</b> live chat is accessible
               around-the-clock. You can get in touch with our support staff at any time.
               Our capable support management team will respond in a matter of minutes and
               take care of your problem whenever it arises.
@@ -174,7 +174,7 @@
             </p>
             <h4>Conclusion:</h4>
             <p>
-              Hiring the academic writing services of Assignment Wallah can be a valuable
+              Hiring the academic writing services of NN IT Soft can be a valuable
               resource for students and professionals seeking high-quality, well-written
               academic papers.
             </p>
@@ -185,10 +185,10 @@
             </p>
             <p>
               Whether you need help with a term paper, dissertation, or another type of
-              academic assignment, Assignment Wallah can provide the support and guidance
+              academic assignment, NN IT Soft can provide the support and guidance
               you need to succeed. If you are looking for a reliable and trustworthy
               writing service to help you with your academic work, consider giving
-              Assignment Wallah a try.
+              NN IT Soft a try.
             </p>
           </div>
         </div>

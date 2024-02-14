@@ -107,7 +107,7 @@
             <p>
               Hiring our coding professionals is an excellent way to ensure that your
               software development projects are completed on time, within budget, and to
-              the highest standards. <b>Assignment Wallah</b> has a team of experienced
+              the highest standards. <b>NN IT Soft</b> has a team of experienced
               developers with the skills and knowledge to create custom software solutions
               tailored to your needs.
             </p>
@@ -153,7 +153,7 @@
 
             <p>
               If you are looking for help with a coding assignment,
-              <b>Assignment Wallah</b> is the right option for you. Our professional
+              <b>NN IT Soft</b> is the right option for you. Our professional
               tutors and mentors provide guidance and support to help you understand the
               material better and offer strategies for troubleshooting and making changes
               to the code. They can also help you with time management and staying on

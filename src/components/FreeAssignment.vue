@@ -51,7 +51,7 @@
               from our experts.
             </h4>
             <p>
-              <b>Assignment Wallah</b> improves students' academic performance and offers
+              <b>NN IT Soft</b> improves students' academic performance and offers
               assignment examples on various topics. After a thorough investigation, our
               specialists provide students with recommendations and advice. But models are
               essential for improving students' writing abilities. Here's how:

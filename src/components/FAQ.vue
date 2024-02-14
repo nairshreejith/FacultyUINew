@@ -83,44 +83,44 @@ export default {
       faqItems: [
         {
           id: 1,
-          question: "Who is Assignment Wallah?",
+          question: "Who is NN IT Soft?",
           answer:
-            "Assignment Wallah is an Online Educational Research Platform. It does not provide any kind of University Assignment Solution with respect to money. Assignment Wallah is here to teach you, guide you, and short out your challenges with affordable charges.",
+            "NN IT Soft is an Online Educational Research Platform. It does not provide any kind of University Assignment Solution with respect to money. NN IT Soft is here to teach you, guide you, and short out your challenges with affordable charges.",
           open: false,
         },
         {
           id: 2,
-          question: "Why Assignment Wallah for students?",
+          question: "Why NN IT Soft for students?",
           answer:
-            "Assignment Wallah, an online platform, gives services to seeking students who need support to solve their doubts or difficulties with study-related content. Our academic experts shorten their queries by providing clarified information. We help students to achieve a better scorecard by giving plagiarism-free study content.",
+            "NN IT Soft, an online platform, gives services to seeking students who need support to solve their doubts or difficulties with study-related content. Our academic experts shorten their queries by providing clarified information. We help students to achieve a better scorecard by giving plagiarism-free study content.",
           open: false,
         },
         {
           id: 3,
-          question: "Is the Assignment Wallah platform trustable?",
+          question: "Is the NN IT Soft platform trustable?",
           answer:
-            "Yes, absolutely! Assignment Wallah is a co-friendly platform collaborated with Industry Leading Professionals who are responsible to assist or enhance student’s core knowledge.",
+            "Yes, absolutely! NN IT Soft is a co-friendly platform collaborated with Industry Leading Professionals who are responsible to assist or enhance student’s core knowledge.",
           open: false,
         },
         {
           id: 4,
-          question: "What services Assignment Wallah provide?",
+          question: "What services NN IT Soft provide?",
           answer:
-            "Assignment Wallah provides lots of trending services that are related to Mobile App Development, ML Model Development, AI, Networking, Cybersecurity, and other research-oriented activities. On this platform, you may get our experts’ assistance via online sessions to clear any domain-related doubts.",
+            "NN IT Soft provides lots of trending services that are related to Mobile App Development, ML Model Development, AI, Networking, Cybersecurity, and other research-oriented activities. On this platform, you may get our experts’ assistance via online sessions to clear any domain-related doubts.",
           open: false,
         },
         {
           id: 5,
-          question: "How to contact Assignment Wallah support?",
+          question: "How to contact NN IT Soft support?",
           answer:
-            "You can contact Assignment Wallah support through our customer support email at support@assignmentwallah.com or by phone at +1-800-123-4567. We are available to assist you 24/7.",
+            "You can contact NN IT Soft support through our customer support email at support@NN IT SOFT.com or by phone at +1-800-123-4567. We are available to assist you 24/7.",
           open: false,
         },
         {
           id: 6,
-          question: "Is Assignment Wallah free to use?",
+          question: "Is NN IT Soft free to use?",
           answer:
-            "Assignment Wallah offers a range of free educational resources and information. However, some services may require payment, such as personalized tutoring or expert consultation. Please check our website for specific pricing details.",
+            "NN IT Soft offers a range of free educational resources and information. However, some services may require payment, such as personalized tutoring or expert consultation. Please check our website for specific pricing details.",
           open: false,
         },
         {

@@ -14,13 +14,13 @@
               class="text-white mt-4 pl-md-13 mobileForm"
               style="position: absolute; right: 400px; font-size: 28px"
             >
-              Assignment Help
+              NN IT Soft
             </h5>
             <h5
               class="text-white mt-2 pl-md-13 mobileForm"
               style="position: absolute; right: 280px; top: 50px; font-size: 28px"
             >
-              Affordable Essay Writing Services
+              Expert Assignment/Job Support
             </h5>
             <div class="mobileForm">
               <assignment-request></assignment-request>
@@ -93,10 +93,10 @@
     >
       <h2>University Student's Trust</h2>
       <p>
-        Our team Assignment Wallah helps more than 150000+ students belonging to the
-        following prestigious universities in their education and research-oriented works.
-        We are always here available for students. Students are able to save money thanks
-        to the fact that we provide the most competitively priced solutions for their
+        Our team NN IT Soft helps more than 150000+ students belonging to the following
+        prestigious universities in their education and research-oriented works. We are
+        always here available for students. Students are able to save money thanks to the
+        fact that we provide the most competitively priced solutions for their
         assignments. We support students to achieve their goals in careers with higher
         academics grade.
       </p>

@@ -25,7 +25,7 @@
             </p>
 
             <p>
-              Contact us at <b>Assignment Wallah</b> if you're stressed about finishing
+              Contact us at <b>NN IT Soft</b> if you're stressed about finishing
               your R homework or assignments. We have a team of professionals with years
               of expertise working on any R-related issue that is pros in programming.
             </p>

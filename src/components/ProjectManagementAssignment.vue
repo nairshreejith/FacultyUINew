@@ -52,7 +52,7 @@
               <li>
                 Is there anyone who can complete my <b>project management</b> assignment
                 in such circumstances? The good news is that
-                <b>Assignment Wallah.com </b>is available to assist you with your project
+                <b>NN IT Soft.com </b>is available to assist you with your project
                 management homework.
               </li>
             </ul>
@@ -121,7 +121,7 @@
               The Benefits of Using Our Project Management Assignment Help for Students
             </h4>
             <p>
-              <b>Assignment Wallah</b> is available for our high-calibre
+              <b>NN IT Soft</b> is available for our high-calibre
               <b>project management assignment</b> assistance solutions. We constantly
               work to save the integrity and oneness of the data so that we can please our
               guests with the quality of the result.

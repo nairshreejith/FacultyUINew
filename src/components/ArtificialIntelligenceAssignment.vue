@@ -16,7 +16,7 @@
       <div class="row align-items-start toolDetailsPg toolDetailsPgNewWrap">
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
-            <h4>Unleashing the Power of AI with Assignment Wallah</h4>
+            <h4>Unleashing the Power of AI with NN IT Soft</h4>
 
             <p>
               <b
@@ -72,7 +72,7 @@
                 >The AI universe is expansive, with countless stars of topics and
                 subjects.</b
               >
-              At Assignment Wallah, we offer guidance in an extensive range of AI
+              At NN IT Soft, we offer guidance in an extensive range of AI
               subjects, including:
             </p>
 
@@ -102,7 +102,7 @@
               bias, privacy, and responsible AI development.
             </p>
 
-            <h4>Assignment Wallah's Expert Guidance</h4>
+            <h4>NN IT Soft's Expert Guidance</h4>
 
             <p>
               <b
@@ -129,10 +129,10 @@
               languages, frameworks, and tools, transforming you into an AI virtuoso.
             </p>
 
-            <h4>Why Choose Assignment Wallah for AI Assistance?</h4>
+            <h4>Why Choose NN IT Soft for AI Assistance?</h4>
 
             <p>
-              <b>Why should you entrust your AI journey to Assignment Wallah?</b> Here are
+              <b>Why should you entrust your AI journey to NN IT Soft?</b> Here are
               compelling reasons:
             </p>
 
@@ -164,7 +164,7 @@
             <p>
               <b
                 >As you embark on this journey into the AI cosmos, remember that
-                Assignment Wallah is your trusty compass.</b
+                NN IT Soft is your trusty compass.</b
               >
               Together, we'll navigate the territories of machine learning, deep learning,
               NLP, computer vision, and ethical AI.

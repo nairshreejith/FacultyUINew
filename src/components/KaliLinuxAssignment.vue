@@ -26,7 +26,7 @@
             <p>
               Students can achieve high exam scores and good grades by completing Kali
               Linux assignments. To succeed in class, planning and organizing your work is
-              crucial. Assignment Wallah Experts are available to help you as a result.
+              crucial. NN IT Soft Experts are available to help you as a result.
             </p>
 
             <h4>What is Kali-Linux?</h4>
@@ -122,7 +122,7 @@
             <p>
               Do you have questions about using Kali Linux? The topics we cover while
               offering Kali Linux assignment help are listed below. The experts at
-              AssignmentWallah.com can help with Kali Linux assignments on the following
+              NN IT SOFT.com can help with Kali Linux assignments on the following
               subjects:
             </p>
 

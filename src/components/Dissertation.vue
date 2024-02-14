@@ -29,7 +29,7 @@
 
             <p>
               <b
-                >You can meet all your dissertation demands at Assignment Wallah on a
+                >You can meet all your dissertation demands at NN IT Soft on a
                 budget. Our dissertation writing assistance service offers fast assignment
                 completion, thorough research, uniqueness, exact formatting, and precise
                 referencing.</b
