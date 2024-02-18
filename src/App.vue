@@ -11,7 +11,7 @@
           <div class="pb-0">
             <div class="row justify-content-between align-self-center menu-bar">
               <div class="top-bar-title scroll-content">
-                Get upto 60% discount on your first Assignment/Job Support!!!
+                Get upto 60% discount on your First Project/Job Support!!!
               </div>
 
               <div class="top-Left-wrap">
