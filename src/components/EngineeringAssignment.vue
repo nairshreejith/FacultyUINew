@@ -14,14 +14,14 @@
       <div class="row align-items-start toolDetailsPg toolDetailsPgNewWrap">
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
-            <h4>Get Best Engineering Assignment Help Services From NN IT Soft</h4>
+            <h4>Get Best Engineering Assignment Help Services From NNIT SOFT</h4>
 
             <h4>Help with Engineering Assignments</h4>
 
             <p>
               Do you find the engineering task frustrating? Do you struggle to do it on
               time? Do you find the idea to be unclear? Ask any questions you may have to
-              the experts at NN IT Soft. Students from all across the globe have
+              the experts at NNIT SOFT. Students from all across the globe have
               received our assistance. Because they trust us, students come to us for
               assistance with their engineering assignments.
             </p>
@@ -47,7 +47,7 @@
             </p>
 
             <p>
-              NN IT Soft is constantly focused on providing the best engineering
+              NNIT SOFT is constantly focused on providing the best engineering
               assignment help service. Our experts not only hold advanced degrees but also
               have a wealth of expertise in creating flawless technical projects.
             </p>

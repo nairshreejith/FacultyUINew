@@ -21,7 +21,7 @@
                 <img src="../assets/location.png" width="20px" />
               </div>
               <div class="text-content text-center">
-                NN IT Soft Pvt Ltd<br />
+                NNIT SOFT Pvt Ltd<br />
                 1234 Elm Street<br />
                 Apt 567<br />
                 Springfield, IL 12345<br />
@@ -59,14 +59,14 @@
                   ><img
                     src="../assets/emailassignment.png"
                     width="50px"
-                  />help@NN IT SOFT.com</a
+                  />help@NNIT SOFT.com</a
                 >
                 <br />
                 <a href="/"
                   ><img
                     src="../assets/emaillogo.png"
                     width="50px"
-                  />help.NN IT SOFT@gmail.com</a
+                  />help.NNIT SOFT@gmail.com</a
                 >
                 <br />
               </div>

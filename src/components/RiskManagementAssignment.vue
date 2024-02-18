@@ -38,7 +38,7 @@
             </p>
 
             <p>
-              Don't; never give up hope. We at NN IT Soft are here to assist you in
+              Don't; never give up hope. We at NNIT SOFT are here to assist you in
               every way we can with your risk management homework. Our only goal is to
               keep your GPA (Grade Point Average) and reputation at the university high.
             </p>

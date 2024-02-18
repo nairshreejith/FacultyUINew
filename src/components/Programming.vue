@@ -20,7 +20,7 @@
               You need help with a programming assignment. Students that procrastinate
               frequently turn in projects late and frequently need help from others to
               complete some tasks. To provide students with adequate programming
-              assistance online, NN IT SOFT steps in.
+              assistance online, NNIT SOFT steps in.
             </p>
 
             <p>
@@ -95,7 +95,7 @@
 
             <p>
               Do you want to learn to code? Are you in need of assistance with your
-              assignment? With the help of NN IT Soft specialists, dispel all
+              assignment? With the help of NNIT SOFT specialists, dispel all
               concerns and succeed in your tasks. Our professionals can assist you with
               any programming assignment and will clear up your questions and explain the
               ideas behind a solution.
@@ -152,7 +152,7 @@
 
             <p>
               Programming assignments can be challenging for students due to their
-              complexity. At NN IT SOFT, we offer knowledgeable specialists who
+              complexity. At NNIT SOFT, we offer knowledgeable specialists who
               deliver efficient programming assignment help and uphold the standards set
               by your university. Our offerings are supported by in-depth analysis and
               organized service. We are also willing to make a few revisions and offer a

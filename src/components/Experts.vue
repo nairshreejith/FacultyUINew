@@ -53,49 +53,36 @@ export default {
     return {
       experts: [
         {
-          name: "Dr. Amanda Johnson",
-          area: "Assignment Services",
+          name: "Dr. David Johnson",
+          area: "Web Development",
           description:
-            "With a Ph.D. in Education and years of experience, Dr. Johnson specializes in tailoring assignment services to individual needs. Her expertise spans various subjects, ensuring your academic success.",
+            "With extensive experience in web development and a background in computer science, Dr. Johnson specializes in crafting dynamic and responsive web applications. His expertise in front-end and back-end technologies ensures high-quality and scalable solutions for clients.",
         },
         {
-          name: "Prof. Michael Lee",
-          area: "Assignment Types",
+          name: "Prof. Michelle Lee",
+          area: "App Development",
           description:
-            "As a seasoned professor of literature, Prof. Lee understands the nuances of academic writing, online assignments, and business management tasks. His guidance ensures comprehensive and well-crafted assignments.",
+            "As a seasoned developer and app architect, Prof. Lee brings a wealth of knowledge to app development projects. With proficiency in iOS, Android, and cross-platform frameworks, she ensures innovative and user-friendly mobile experiences.",
         },
         {
-          name: "Dr. Sarah Adams",
-          area: "Technical Assignments",
+          name: "Dr. Adam Adams",
+          area: "DevOps Services",
           description:
-            "Dr. Adams, a leading expert in IT and computer science, dives deep into technical assignments. Her proficiency in network security and related fields guarantees top-notch solutions for even the most complex assignments.",
+            "Dr. Adams is a leading expert in DevOps practices and cloud-native technologies. His deep understanding of CI/CD pipelines, containerization, and infrastructure as code enables seamless deployment and automation for clients' software projects.",
         },
         {
           name: "John Smith, MSc",
-          area: "Programming Assignments",
+          area: "Data Science",
           description:
-            "With a Master's degree in Computer Science, John specializes in programming languages like Python, Java, and data structures. His expertise helps students master the art of coding and excel in programming assignments.",
+            "With a Master's degree in Data Science and expertise in machine learning and predictive analytics, John specializes in unlocking insights from complex datasets. His skills in data visualization and statistical analysis drive informed decision-making for clients.",
         },
         {
-          name: "Prof. Emily White",
-          area: "Engineering Assignments",
+          name: "Prof. Emma White",
+          area: "Cloud Services",
           description:
-            "Prof. White, an expert in software engineering and civil engineering, provides comprehensive solutions for engineering assignments. Her in-depth knowledge of statistics and digital electronics ensures accurate and detailed problem-solving.",
-        },
-        {
-          name: "Dr. Mark Roberts",
-          area: "Higher Order Thinking Skills (HOTS)",
-          description:
-            "Dr. Roberts challenges students' intellect with assignments in digital marketing, strategic management, leadership, and blockchain technology. His guidance expands students' knowledge horizons and prepares them for real-world challenges.",
-        },
-        {
-          name: "Prof. Laura Parker",
-          area: "Science Assignments",
-          description:
-            "Prof. Parker delves into the mysteries of science with assignments in physics and chemistry. Her insights into fundamental principles and real-world applications provide students with a deeper understanding of the scientific world.",
+            "Prof. White is a cloud computing expert with proficiency in AWS, Azure, and Google Cloud Platform. Her knowledge of cloud architecture, scalability, and security ensures reliable and scalable cloud solutions for clients' infrastructure needs.",
         },
       ],
-
       pageSize: 3, // Number of testimonials per page
       currentPage: 0, // Current page index
     };

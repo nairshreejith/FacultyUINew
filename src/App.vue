@@ -42,7 +42,7 @@
                           class="headerimg"
                           width="25px"
                         />
-                        <span class="pl-3"> help@NN IT SOFT.com</span></a
+                        <span class="pl-3"> help@NNIT SOFT.com</span></a
                       >
                     </div></v-btn
                   >
@@ -96,8 +96,6 @@
                     large
                     >Blog</v-btn
                   >
-
-                  <!-- <v-btn to="/careers"  :ripple="false" class="mr-2 no-background-hover headerbtn mbres text-capitalize" text large>Careers</v-btn> -->
                 </div>
               </div>
               <div class="row col-7 pb-0 align-self-center mobile">
@@ -121,167 +119,78 @@
               <template v-slot:activator="{ on }">
                 <v-btn
                   v-on="on"
-                  to="/assignment"
                   :ripple="false"
                   class="pl-0 no-background-hover headerbtn mbres text-capitalize"
                   text
                   large
-                  >Assignment Help
+                  >Web Development
                 </v-btn>
               </template>
               <v-list class="pt-0 pb-0">
                 <div class="row menu-row">
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
-                    <!-- <div class="col-4">
-                      <v-btn
-                        to="best-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Best Assignment Help</v-btn
-                      >
-                    </div> -->
                     <div class="col-4">
                       <v-btn
-                        to="student-assignment"
+                        to="front-end-development-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Student Assignment Help</v-btn
+                        >Frontend Development Services</v-btn
                       >
                     </div>
-                    <!-- <div class="col-4">
-                      <v-btn
-                        to="urgent-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Urgent Assignment Help</v-btn
-                      >
-                    </div> -->
-                    <!-- <div class="col-4">
-                      <v-btn
-                        to="cheap-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Cheap Assignment Help</v-btn
-                      >
-                    </div> -->
+
                     <div class="col-4">
                       <v-btn
-                        to="academic-writing"
+                        to="back-end-development-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Academic Writing Help</v-btn
+                        >Backend Development Services</v-btn
                       >
                     </div>
-                    <!-- <div class="col-4">
-                      <v-btn
-                        to="all-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >All Assignment Help</v-btn
-                      >
-                    </div> -->
+
                     <div class="col-4">
                       <v-btn
-                        to="online-assignment"
+                        to="database-management-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Online Assignment Help</v-btn
+                        >Database Management Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="business-management-assignment"
+                        to="responsive-design-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Business Management Assignment Help</v-btn
+                        >Responsive Design Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="project-management-assignment"
+                        to="progressive-web-apps-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Project Management Assignment Help</v-btn
+                        >Progressive Web Apps (PWAs) Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="human-resource-assignment"
+                        to="e-commerce-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Human Resource Assignment Help</v-btn
+                        >E-commerce Solutions Services</v-btn
                       >
                     </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="economic-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Economic Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="hospitality-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Hospitality Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="marketing-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Marketing Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="healthcare-management"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Healthcare Management Help</v-btn
-                      >
-                    </div>
-                    <!-- <div class="col-4">
-                      <v-btn
-                        to="free-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Free Assignment Help</v-btn
-                      >
-                    </div> -->
                   </div>
                   <div class="col-xl-3 pa-0 d-none d-xl-block">
                     <div class="sixteentonine">
@@ -312,7 +221,7 @@
                   class="no-background-hover headerbtn mbres text-capitalize"
                   text
                   large
-                  >Technical Assignment
+                  >Mobile App Development
                 </v-btn>
               </template>
               <v-list class="pt-0 pb-0">
@@ -320,212 +229,32 @@
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
                     <div class="col-4">
                       <v-btn
-                        to="IT-assignment"
+                        to="IOS-development-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >IT Assignment Help</v-btn
+                        >IOS Development Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="computer-science-assignment"
+                        to="android-development-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Computer Science Assignment Help</v-btn
+                        >Android Development Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="computer-network-assignment"
+                        to="cross-platform-development-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Computer Network Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="technical-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Technical Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="matlab-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Matlab Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="tableau-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Tableau Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="spss-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >SPSS Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="database-management-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Database Management Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="cloud-computing-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Cloud Computing Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="network-security-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Network Security Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="android-development-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Android Development Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="machine-learning-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Machine Learning Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="artificial-intelligence-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Artificial Intelligence Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="data-analysis-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Data Analysis Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="excel-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Excel Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="cyber-security-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Cyber Security Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="database-design-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Database Design Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="web-development-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Web Development Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="IOT-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >IOT Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="data-visualization-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Data Visualization Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="power-bi-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Power BI Assignment Help</v-btn
+                        >Cross-Platform Development Services</v-btn
                       >
                     </div>
                   </div>
@@ -541,14 +270,253 @@
               </v-list>
             </v-menu>
 
-            <v-btn
-              to="/dissertation"
-              :ripple="false"
-              class="no-background-hover headerbtn mbres text-capitalize"
-              text
-              large
-              >Dissertation
-            </v-btn>
+            <v-menu
+              class="menu-content"
+              :close-on-content-click="true"
+              open-on-hover
+              tile
+              bottom
+              offset-y
+              min-width="100%"
+              style="border-bottom: 5px solid var(--beige)"
+            >
+              <template v-slot:activator="{ on }">
+                <v-btn
+                  v-on="on"
+                  :ripple="false"
+                  class="no-background-hover headerbtn mbres text-capitalize"
+                  text
+                  large
+                  >Technical Services
+                </v-btn>
+              </template>
+              <v-list class="pt-0 pb-0">
+                <div class="row menu-row">
+                  <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
+                    <div class="col-4">
+                      <v-btn
+                        to="IT-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >IT Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="computer-science-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Computer Science Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="computer-network-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Computer Network Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="technical-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Technical Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="matlab-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Matlab Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="data-science-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Data Science Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="tableau-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Tableau Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="block-chain-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >BlockChain Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="spss-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >SPSS Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="database-management-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Database Management Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="cloud-computing-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Cloud Computing Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="network-security-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Network Security Services</v-btn
+                      >
+                    </div>
+
+                    <div class="col-4">
+                      <v-btn
+                        to="machine-learning-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Machine Learning Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="artificial-intelligence-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Artificial Intelligence Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="data-analysis-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Data Analysis Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="excel-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Excel Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="cyber-security-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Cyber Security Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="database-design-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Database Design Services</v-btn
+                      >
+                    </div>
+
+                    <div class="col-4">
+                      <v-btn
+                        to="IOT-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >IOT Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="data-visualization-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Data Visualization Services</v-btn
+                      >
+                    </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="power-bi-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Power BI Services</v-btn
+                      >
+                    </div>
+                  </div>
+                  <div class="col-xl-3 pa-0 d-none d-xl-block">
+                    <div class="sixteentonine">
+                      <div
+                        class="kachelimage block-background-image"
+                        style="background-image: url('static/img/tools_header.jpg')"
+                      ></div>
+                    </div>
+                  </div>
+                </div>
+              </v-list>
+            </v-menu>
 
             <v-menu
               class="menu-content"
@@ -563,7 +531,6 @@
               <template v-slot:activator="{ on }">
                 <v-btn
                   v-on="on"
-                  to="/programming"
                   :ripple="false"
                   class="no-background-hover headerbtn mbres text-capitalize"
                   text
@@ -576,199 +543,92 @@
                   <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
                     <div class="col-4">
                       <v-btn
-                        to="python-programming-assignment"
+                        to="python-programming-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Python Programming Assignment Help</v-btn
+                        >Python Programming Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="C-programming-assignment"
+                        to="C-programming-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >C Programming Assignment Help</v-btn
+                        >C Programming Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="java-assignment"
+                        to="java-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Java Assignment Help</v-btn
+                        >Java Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="R-assignment"
+                        to="R-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >R Assignment Help</v-btn
+                        >R Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="javascript-assignment"
+                        to="javascript-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Javascript Assignment Help</v-btn
+                        >Javascript Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="coding-assignment"
+                        to="coding-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Coding Assignment Help</v-btn
+                        >Coding Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="cryptographic-assignment"
+                        to="cryptographic-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Cryptographic Assignment Help</v-btn
+                        >Cryptographic Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="data-structure-assignment"
+                        to="data-structure-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Data Structure Assignment Help</v-btn
+                        >Data Structure Services</v-btn
                       >
                     </div>
                     <div class="col-4">
                       <v-btn
-                        to="GO-assignment"
+                        to="GO-services"
                         :ripple="false"
                         class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
                         text
                         large
-                        >Go Assignment Help</v-btn
-                      >
-                    </div>
-                  </div>
-                  <div class="col-xl-3 pa-0 d-none d-xl-block">
-                    <div class="sixteentonine">
-                      <div
-                        class="kachelimage block-background-image"
-                        style="background-image: url('static/img/tools_header.jpg')"
-                      ></div>
-                    </div>
-                  </div>
-                </div>
-              </v-list>
-            </v-menu>
-
-            <v-menu
-              class="menu-content"
-              :close-on-content-click="true"
-              open-on-hover
-              tile
-              bottom
-              offset-y
-              min-width="100%"
-              style="border-bottom: 5px solid var(--beige)"
-            >
-              <template v-slot:activator="{ on }">
-                <v-btn
-                  v-on="on"
-                  to="/engineering-assignment"
-                  :ripple="false"
-                  class="no-background-hover headerbtn mbres text-capitalize"
-                  text
-                  large
-                  >Engineering Assignment
-                </v-btn>
-              </template>
-              <v-list class="pt-0 pb-0">
-                <div class="row menu-row">
-                  <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
-                    <div class="col-4">
-                      <v-btn
-                        to="software-engineering-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Software Engineering Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="statistics-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Statistics Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="math-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Math Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="digital-electronics-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Digital Electronics Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="engineering-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Engineering Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="electrical-engineering-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Electrical Engineering Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="civil-engineering-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Civil Engineering Assignment Help</v-btn
+                        >Go Services</v-btn
                       >
                     </div>
                   </div>
@@ -785,157 +645,30 @@
             </v-menu>
 
             <v-btn
-              to="/essay-writing"
+              to="/devops-services"
               :ripple="false"
               class="no-background-hover headerbtn mbres text-capitalize"
               text
               large
-              >Essay Writing</v-btn
+              >Devops Services</v-btn
             >
-
-            <v-menu
-              class="menu-content"
-              :close-on-content-click="true"
-              open-on-hover
-              tile
-              bottom
-              offset-y
-              min-width="100%"
-              style="border-bottom: 5px solid var(--beige)"
-            >
-              <template v-slot:activator="{ on }">
-                <v-btn
-                  v-on="on"
-                  to="/hots"
-                  :ripple="false"
-                  class="no-background-hover headerbtn mbres text-capitalize"
-                  text
-                  large
-                  >Hots'
-                </v-btn>
-              </template>
-              <v-list class="pt-0 pb-0">
-                <div class="row menu-row">
-                  <div class="pl-8 pl-md-12 col-12 col-xl-9 pt-0 pb-13 row pr-0">
-                    <div class="col-4">
-                      <v-btn
-                        to="digital-marketing-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Digital Marketing Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="strategic-management-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Strategic Management Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="leadership-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Leadership Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="risk-management-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Risk Management Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="supply-chain-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Supply Chain Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="kali-linux-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Kali Linux Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="block-chain-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Block Chain Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="physics-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Physics Assignment Help</v-btn
-                      >
-                    </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="chemistry-assignment"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Chemistry Assignment Help</v-btn
-                      >
-                    </div>
-                  </div>
-                  <div class="col-xl-3 pa-0 d-none d-xl-block">
-                    <div class="sixteentonine">
-                      <div
-                        class="kachelimage block-background-image"
-                        style="background-image: url('static/img/tools_header.jpg')"
-                      ></div>
-                    </div>
-                  </div>
-                </div>
-              </v-list>
-            </v-menu>
 
             <v-btn
-              to="/thesis"
+              to="/cloud-services"
               :ripple="false"
               class="no-background-hover headerbtn mbres text-capitalize"
               text
               large
-              >Job Support
+              >Cloud Services
             </v-btn>
 
             <v-btn
-              to="/thesis"
+              to="/job-interview-support"
               :ripple="false"
               class="no-background-hover headerbtn mbres text-capitalize"
               text
               large
-              >Offer Zone
+              >Job Support/Interview Support
             </v-btn>
           </div>
           <div class="header-divider"></div>
@@ -970,62 +703,19 @@
             </template>
             <template v-slot:activator>
               <v-list-item-title class="text-uppercase font-16px">
-                Assignment
+                Web Development
               </v-list-item-title>
             </template>
 
-            <!-- <v-list-item sub-group link class="d-xl-none" to="/best-assignment">
+            <v-list-item
+              sub-group
+              link
+              class="d-xl-none"
+              to="/front-end-development-services"
+            >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Best Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item> -->
-
-            <v-list-item sub-group link class="d-xl-none" to="/student-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Student Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <!-- <v-list-item sub-group link class="d-xl-none" to="/urgent-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Urgent Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item> -->
-
-            <!-- <v-list-item sub-group link class="d-xl-none" to="/cheap-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Cheap Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item> -->
-
-            <v-list-item sub-group link class="d-xl-none" to="/academic-writing-service">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Academic Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/all-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  All Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/online-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Online Assignment Help
+                  Frontend Development Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
@@ -1034,11 +724,11 @@
               sub-group
               link
               class="d-xl-none"
-              to="/business-management-assignment"
+              to="/back-end-development-services"
             >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Business Management Assignment Help
+                  Backend Development Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
@@ -1047,54 +737,48 @@
               sub-group
               link
               class="d-xl-none"
-              to="/project-management-assignment"
+              to="/database-management-services"
             >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Project Management Assignment Help
+                  DataBase Management Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/human-resource-assignment">
+            <v-list-item
+              sub-group
+              link
+              class="d-xl-none"
+              to="/responsive-design-services"
+            >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Human Resource Assignment Help
+                  Responsive Design Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/economy-assignment">
+            <v-list-item
+              sub-group
+              link
+              class="d-xl-none"
+              to="/progressive-web-apps-services"
+            >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Economy Assignment Help
+                  Progressive Web Apps (PWA) Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/hospitality-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/e-commerce-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Hospitality Assignment Help
+                  E-Commerce Solutions Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/marketing-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Marketing Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <!-- <v-list-item sub-group link class="d-xl-none" to="/free-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Free Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item> -->
           </v-list-group>
 
           <v-list-group
@@ -1117,14 +801,14 @@
             </template>
             <template v-slot:activator>
               <v-list-item-title class="text-uppercase font-16px">
-                Technical Assignment
+                Mobile App Development
               </v-list-item-title>
             </template>
 
-            <v-list-item sub-group link class="d-xl-none" to="/IT-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/ios-development-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  IT Assignment Help
+                  IOS Development Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
@@ -1133,11 +817,11 @@
               sub-group
               link
               class="d-xl-none"
-              to="/computer-science-assignment"
+              to="/android-development-services"
             >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Computer Science Assignment Help
+                  Android Development Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
@@ -1146,227 +830,215 @@
               sub-group
               link
               class="d-xl-none"
-              to="/computer-network-assignment"
+              to="/cross-platform-development-services"
             >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Computer Network Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/dissertation">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Dissertation Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/technical-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Technical Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/matlab-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Matlab Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/tableau-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Tableau Assignemnt Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/spss-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  SPSS Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/database-management-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Database Management Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/cloud-computing-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Cloud Computing Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/network-security-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Network Security Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/android-development-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Android Development Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/machine-learning-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Machine Learning Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/artificial-intelligence-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Artificial Intelligence Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item sub-group link class="d-xl-none" to="/data-analysis-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Data Analysis Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item sub-group link class="d-xl-none" to="/tableau-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Tableau Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/excel-assignment-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Excel Assignemnt Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/dcyber-security-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Cyber Security Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/database-design-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Database Design Assignment Help
-                </v-list-item-title>
-              </v-list-item-content> </v-list-item
-            ><v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/web-development-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Web Development Assignment Help
-                </v-list-item-title>
-              </v-list-item-content> </v-list-item
-            ><v-list-item sub-group link class="d-xl-none" to="/IOT-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  IOT Assignment Help
-                </v-list-item-title>
-              </v-list-item-content> </v-list-item
-            ><v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/data-visualization-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Data Visualization Assignment Help
-                </v-list-item-title>
-              </v-list-item-content> </v-list-item
-            ><v-list-item sub-group link class="d-xl-none" to="/power-bi-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Power BI Assignment Help
+                  Cross Platform Development Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
           </v-list-group>
 
-          <v-list-item class="d-xl-none" to="/thesis">
-            <v-list-item-content>
+          <v-list-group
+            :value="false"
+            class="d-xl-none group-pl"
+            @click="
+              mobileMenu.group1_expanded = !mobileMenu.group1_expanded;
+              mobileMenu.group2_expanded = false;
+            "
+          >
+            <template v-slot:appendIcon>
+              <img
+                class="ml-2 left-nav-icon"
+                v-bind:style="
+                  mobileMenu.group1_expanded
+                    ? 'transform: rotate(270deg)'
+                    : 'transform: rotate(90deg)'
+                "
+              />
+            </template>
+            <template v-slot:activator>
               <v-list-item-title class="text-uppercase font-16px">
-                Thesis
+                Technical Services
               </v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
+            </template>
 
-          <v-list-item class="d-xl-none" to="/dissertation">
-            <v-list-item-content>
-              <v-list-item-title class="text-uppercase font-16px">
-                Dissertation
-              </v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
+            <v-list-item sub-group link class="d-xl-none" to="/IT-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  IT Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/computer-science-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Computer Science Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/computer-network-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Computer Network Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/matlab-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Matlab Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/data-science-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Data Science Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/tableau-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Tableau Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/block-chain-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  BlockChain Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/spss-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  SPSS Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item
+              sub-group
+              link
+              class="d-xl-none"
+              to="/database-management-services"
+            >
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Database Management Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/cloud-computing-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Cloud Computing Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/network-security-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Network Security Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/machine-learning-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Machine Learning Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item
+              sub-group
+              link
+              class="d-xl-none"
+              to="/artificial-intelligence-services"
+            >
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Artificial Intelligence Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/data-analysis-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Data Analysis Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/excel-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Excel Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/cyber-security-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Cyber Security Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/database-design-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Database Design Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/IOT-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  IOT Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item
+              sub-group
+              link
+              class="d-xl-none"
+              to="/data-visualization-services"
+            >
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Data Visualization Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+
+            <v-list-item sub-group link class="d-xl-none" to="/power-bi-services">
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Power BI Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+          </v-list-group>
 
           <v-list-group
             :value="false"
@@ -1396,300 +1068,103 @@
               sub-group
               link
               class="d-xl-none"
-              to="/python-programming-assignment"
+              to="/python-programming-services"
             >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Python Programming Assignment Help
+                  Python Programming Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/C-programming-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/C-programming-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  C Programming Assignment Help
+                  C Programming Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/java-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/java-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Java Assignment Help
+                  Java Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/R-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/R-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  R Assignment Help
+                  R Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/javascript-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/javascript-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Javascript Assignment Help
+                  Javascript Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/coding-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/coding-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Coding Assignment Help
+                  Coding Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/cryptography-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/cryptographic-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Cryptographic Assignment Help
+                  Cryptographic Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/data-structure-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/data-structure-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Data Structure Assignment Help
+                  Data Structure Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
 
-            <v-list-item sub-group link class="d-xl-none" to="/GO-assignment">
+            <v-list-item sub-group link class="d-xl-none" to="/GO-services">
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase font-16px">
-                  Go Assignment Help
+                  Go Services
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
           </v-list-group>
 
-          <v-list-group
-            :value="false"
-            class="d-xl-none group-pl"
-            @click="
-              mobileMenu.group1_expanded = !mobileMenu.group1_expanded;
-              mobileMenu.group2_expanded = false;
-            "
-          >
-            <template v-slot:appendIcon>
-              <img
-                class="ml-2 left-nav-icon"
-                v-bind:style="
-                  mobileMenu.group1_expanded
-                    ? 'transform: rotate(270deg)'
-                    : 'transform: rotate(90deg)'
-                "
-              />
-            </template>
-            <template v-slot:activator>
-              <v-list-item-title class="text-uppercase font-16px">
-                Engineering Assignment
-              </v-list-item-title>
-            </template>
-
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/software-engineering-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Software Engineering Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/statistics-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Statistics Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/math-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Math Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/digital-electronics-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Digital Electronics Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/engineering-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Engineering Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/electical-engineering-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Electrical Engineering Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/civil-engineering-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Civil Engineering Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-          </v-list-group>
-
-          <v-list-item class="d-xl-none" to="/essay-writing">
+          <v-list-item class="d-xl-none" to="/devops-services">
             <v-list-item-content>
               <v-list-item-title class="text-uppercase font-16px">
-                Essay Writing
+                Devops
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
 
-          <v-list-group
-            :value="false"
-            class="d-xl-none group-pl"
-            @click="
-              mobileMenu.group1_expanded = !mobileMenu.group1_expanded;
-              mobileMenu.group2_expanded = false;
-            "
-          >
-            <template v-slot:appendIcon>
-              <img
-                class="ml-2 left-nav-icon"
-                v-bind:style="
-                  mobileMenu.group1_expanded
-                    ? 'transform: rotate(270deg)'
-                    : 'transform: rotate(90deg)'
-                "
-              />
-            </template>
-            <template v-slot:activator>
+          <v-list-item class="d-xl-none" to="/cloud-services">
+            <v-list-item-content>
               <v-list-item-title class="text-uppercase font-16px">
-                Hots Assignment
+                Cloud Services
               </v-list-item-title>
-            </template>
+            </v-list-item-content>
+          </v-list-item>
 
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/digital-marketing-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Digital Marketing Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/strategic-management-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Strategic Management Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/leadership-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Leadership Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/risk-management-assignment"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Risk Management Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/supply-chain-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Supply Chain Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/kali-linux-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Kali Linux Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/block-chain-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Block Chain Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/physics-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Physics Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-
-            <v-list-item sub-group link class="d-xl-none" to="/chemistry-assignment">
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Chemistry Assignment Help
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-          </v-list-group>
+          <v-list-item class="d-xl-none" to="/job-interview-support">
+            <v-list-item-content>
+              <v-list-item-title class="text-uppercase font-16px">
+                JOb Support / Interview Support
+              </v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
         </v-list>
       </v-navigation-drawer>
       <v-main class="mainmobile mobileFooter pt-16 mb-12 mb-md-0">
@@ -1807,14 +1282,14 @@
             <div href="/">
               <img src="./assets/emailassignment.png" width="35px" class="mr-3" /><span
                 class="text-white"
-                >help@NN IT SOFT.com</span
+                >help@NNIT SOFT.com</span
               >
             </div>
             <br />
             <div href="/">
               <img src="./assets/emaillogo.png" width="35px" class="mr-3" /><span
                 class="text-white"
-                >help.NN IT SOFT@gmail.com</span
+                >help.NNIT SOFT@gmail.com</span
               >
             </div>
           </div>
@@ -1840,7 +1315,7 @@
               ><img src="./assets/linkedinlogo.png" width="32px"
             /></a>
             <p class="mt-5 text-white" style="text-align: center">
-              NN IT Soft Pvt Ltd<br />
+              NNIT SOFT Pvt Ltd<br />
               1234 Elm Street<br />
               Apt 567<br />
               Springfield, IL 12345<br />
@@ -1860,7 +1335,7 @@
           </form>
         </div>
       </v-bottom-navigation>
-      <!-- <p class="text-center">@2023 NN IT SOFT All CopyRights Reserved</p> -->
+      <!-- <p class="text-center">@2023 NNIT SOFT All CopyRights Reserved</p> -->
     </v-app>
   </div>
 </template>
