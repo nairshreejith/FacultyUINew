@@ -87,7 +87,6 @@ export default {
   components: {
     TestimonialData,
   },
-  data() {},
 };
 </script>
 
