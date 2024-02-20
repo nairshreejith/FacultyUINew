@@ -340,7 +340,6 @@ const routes = [
 ];
 
 const router = new VueRouter({
-  base: '/nnitsoft',
   mode: "history",
   routes,
 });
