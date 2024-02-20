@@ -1,5 +1,5 @@
 <template>
-  <div class="upload-component">
+  <div class="nnit-upload">
     <v-file-input
       v-model="files"
       v-show="!onlyDisplay"

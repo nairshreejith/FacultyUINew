@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div class="sixteentosix omt-6 omt-md-25">
+    <div class="paddingsubmainclass omt-6 omt-md-25">
       <div
-        class="kachelimage header-image"
+        class="nnitimage header-image"
         style="background: url('static/img/contact.png')"
       >
         <div class="headline">

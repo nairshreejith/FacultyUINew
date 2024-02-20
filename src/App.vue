@@ -10,12 +10,12 @@
         <div class="row pl-8 resMobHeader">
           <div class="pb-0">
             <div class="row justify-content-between align-self-center menu-bar">
-              <div class="top-bar-title scroll-content">
+              <div class="nnit-top-bar-title scroll-content">
                 "Transform your brand with custom web solutions that captivate and
                 convert."
               </div>
 
-              <div class="top-Left-wrap">
+              <div class="nnit-top-left">
                 <img
                   class="hamburger mt-5 desktop"
                   src="./assets/hamburger.png"
@@ -24,7 +24,7 @@
 
                 <div class="col-md-12 pl-16 px-0 py-0 justify-content-between">
                   <a href="/"
-                    ><img class="mb-4 mt-2 kb-header-logo" src="./assets/nnitlogo.png"
+                    ><img class="mb-4 mt-2 nnit-header-logo" src="./assets/nnitlogo.png"
                   /></a>
 
                   <v-btn class="pl-0 contact no-background-hover">
@@ -194,9 +194,9 @@
                     </div>
                   </div>
                   <div class="col-xl-3 pa-0 d-none d-xl-block">
-                    <div class="sixteentonine">
+                    <div class="paddingmainclass">
                       <div
-                        class="kachelimage block-background-image"
+                        class="nnitimage block-background-image"
                         style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
@@ -260,9 +260,9 @@
                     </div>
                   </div>
                   <div class="col-xl-3 pa-0 d-none d-xl-block">
-                    <div class="sixteentonine">
+                    <div class="paddingmainclass">
                       <div
-                        class="kachelimage block-background-image"
+                        class="nnitimage block-background-image"
                         style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
@@ -518,9 +518,9 @@
                     </div>
                   </div>
                   <div class="col-xl-3 pa-0 d-none d-xl-block">
-                    <div class="sixteentonine">
+                    <div class="paddingmainclass">
                       <div
-                        class="kachelimage block-background-image"
+                        class="nnitimage block-background-image"
                         style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
@@ -644,9 +644,9 @@
                     </div>
                   </div>
                   <div class="col-xl-3 pa-0 d-none d-xl-block">
-                    <div class="sixteentonine">
+                    <div class="paddingmainclass">
                       <div
-                        class="kachelimage block-background-image"
+                        class="nnitimage block-background-image"
                         style="background-image: url('static/img/tools_header.jpg')"
                       ></div>
                     </div>
