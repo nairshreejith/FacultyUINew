@@ -15,7 +15,7 @@ try {
   };
 }
 module.exports = {
-  publicPath: '/FacultyUINew/',
+  publicPath: '/',
   runtimeCompiler: true,
   // proxy all webpack dev-server requests starting with /api
   // to our Spring Boot backend (localhost:8088) using http-proxy-middleware
