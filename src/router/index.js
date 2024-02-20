@@ -340,7 +340,7 @@ const routes = [
 ];
 
 const router = new VueRouter({
-  base: '/FacultyUINew/',
+  base: '/',
   mode: "history",
   routes,
 });
