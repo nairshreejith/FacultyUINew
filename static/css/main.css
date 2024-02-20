@@ -842,12 +842,19 @@ margin-bottom: 0px !important;
 }
 
 .kachelimage {
-height: 100%;
+height: 75%;
 position: absolute;
 object-fit: contain;
 width: 100%;
 }
 
+.homeimage{
+  height: 100%;
+  position: absolute;
+  object-fit: contain;
+  width: 100%;
+
+}
 
 
 .sixteentonine {
@@ -857,8 +864,13 @@ padding-bottom:56.2%;
 
 .sixteentosix{
 position: relative;
-padding-bottom: 37.5%;
+padding-bottom: 15%;
 }
+
+.homepadding{
+  position: relative;
+  padding-bottom: 37.5%;
+  }
 
 
 .upload-component {
@@ -1214,7 +1226,7 @@ header div.v-toolbar__content{
 }
 
 header .menu-bar .top-bar-title {border: unset;font-size: 16px;padding: 4px 0px;}
-header .v-toolbar__content .headerbtn, .v-menu__content .menubtn {font-weight: 400;transition: unset;}
+header .v-toolbar__content .headerbtn, .v-menu__content .menubtn {font-weight: 400;transition: unset; min-width: 150px !important;}
 .theme--light.v-bottom-navigation .v-btn:not(.v-btn--active), .v-item-group.v-bottom-navigation .v-btn.v-btn--active {font-weight: 400;padding: 8.5px 16px !important;}
 .v-application .text-h5, .v-application .text-h6, .v-expansion-panel-header>:not(.v-expansion-panel-header__icon) {font-family: 'noto-sans' !important;font-weight: 400;}
 
@@ -1281,6 +1293,11 @@ margin-left: auto;
   .cp_wrapper_new .cpDetailWrapper .cpCardLeft {margin-top: 10px;width: 100%;font-size: 16px;line-height: 20px;}
   html body .v-application .v-btn:not(.noBorderBtn button) {font-size: 14px !important;height: 36px !important;margin-right: 10px !important;}
   html body .v-application .v-btn i {font-size: 16px !important;}
+
+  .sixteentosix{
+    position: relative;
+    padding-bottom: 45%;
+    }
 }
 
 
@@ -1289,6 +1306,7 @@ margin-left: auto;
 
 @media (max-width:488px){
   .mob-mb-2 {margin-top: 8px;}
+ 
 }
 
 
