@@ -66,7 +66,3 @@
     </div>
   </div>
 </template>
-
-<style>
-/* Add your custom styling here */
-</style>

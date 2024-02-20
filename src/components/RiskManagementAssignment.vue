@@ -38,9 +38,9 @@
             </p>
 
             <p>
-              Don't; never give up hope. We at NNIT SOFT are here to assist you in
-              every way we can with your risk management homework. Our only goal is to
-              keep your GPA (Grade Point Average) and reputation at the university high.
+              Don't; never give up hope. We at NNIT SOFT are here to assist you in every
+              way we can with your risk management homework. Our only goal is to keep your
+              GPA (Grade Point Average) and reputation at the university high.
             </p>
 
             <h4>
@@ -192,11 +192,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

@@ -1,10 +1,10 @@
 <template>
   <div>
-    <div class="sixteentosix omt-6 omt-md-25">
+    <div class="homepadding omt-6 omt-md-25">
       <div class="row">
         <div class="col-md-6">
           <div
-            class="kachelimage header-image"
+            class="homeimage header-image"
             style="background: url('static/img/aboutus.png')"
           ></div>
         </div>

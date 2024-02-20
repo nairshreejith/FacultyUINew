@@ -21,9 +21,9 @@
             <p>
               Do you find the engineering task frustrating? Do you struggle to do it on
               time? Do you find the idea to be unclear? Ask any questions you may have to
-              the experts at NNIT SOFT. Students from all across the globe have
-              received our assistance. Because they trust us, students come to us for
-              assistance with their engineering assignments.
+              the experts at NNIT SOFT. Students from all across the globe have received
+              our assistance. Because they trust us, students come to us for assistance
+              with their engineering assignments.
             </p>
 
             <p>
@@ -47,9 +47,9 @@
             </p>
 
             <p>
-              NNIT SOFT is constantly focused on providing the best engineering
-              assignment help service. Our experts not only hold advanced degrees but also
-              have a wealth of expertise in creating flawless technical projects.
+              NNIT SOFT is constantly focused on providing the best engineering assignment
+              help service. Our experts not only hold advanced degrees but also have a
+              wealth of expertise in creating flawless technical projects.
             </p>
 
             <p>
@@ -113,11 +113,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

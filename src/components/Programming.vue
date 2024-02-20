@@ -95,10 +95,10 @@
 
             <p>
               Do you want to learn to code? Are you in need of assistance with your
-              assignment? With the help of NNIT SOFT specialists, dispel all
-              concerns and succeed in your tasks. Our professionals can assist you with
-              any programming assignment and will clear up your questions and explain the
-              ideas behind a solution.
+              assignment? With the help of NNIT SOFT specialists, dispel all concerns and
+              succeed in your tasks. Our professionals can assist you with any programming
+              assignment and will clear up your questions and explain the ideas behind a
+              solution.
             </p>
 
             <h4>How difficult is it to learn to code?</h4>
@@ -152,12 +152,12 @@
 
             <p>
               Programming assignments can be challenging for students due to their
-              complexity. At NNIT SOFT, we offer knowledgeable specialists who
-              deliver efficient programming assignment help and uphold the standards set
-              by your university. Our offerings are supported by in-depth analysis and
-              organized service. We are also willing to make a few revisions and offer a
-              prompt delivery of your project for you to review. Also, you can get the
-              most significant programming help online and raise your grades with our
+              complexity. At NNIT SOFT, we offer knowledgeable specialists who deliver
+              efficient programming assignment help and uphold the standards set by your
+              university. Our offerings are supported by in-depth analysis and organized
+              service. We are also willing to make a few revisions and offer a prompt
+              delivery of your project for you to review. Also, you can get the most
+              significant programming help online and raise your grades with our
               convenient payment methods and affordable prices.
             </p>
           </div>
@@ -166,11 +166,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

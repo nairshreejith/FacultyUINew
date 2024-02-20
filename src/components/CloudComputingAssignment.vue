@@ -94,11 +94,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

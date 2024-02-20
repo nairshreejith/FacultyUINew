@@ -52,7 +52,6 @@
               required
               style="margin-bottom: 0.6rem !important"
             />
-            <!-- <DatePicker  clearable /> -->
           </div>
 
           <!-- Technology -->

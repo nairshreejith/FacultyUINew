@@ -6,7 +6,7 @@
         style="background: url('static/img/assignment.png')"
       >
         <div class="headline">
-          <div class="text-subtitle-2 text-md-h5">IT Services:</div>
+          <div class="text-subtitle-2 text-md-h5">IT Services</div>
         </div>
       </div>
     </div>
@@ -90,11 +90,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

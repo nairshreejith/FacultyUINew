@@ -6,9 +6,7 @@
         style="background: url('static/img/assignment.png')"
       >
         <div class="headline">
-          <div class="text-subtitle-2 text-md-h5">
-            Job Support/Interview Support Services
-          </div>
+          <div class="text-subtitle-2 text-md-h5">Job Support Services</div>
         </div>
       </div>
     </div>
@@ -16,14 +14,13 @@
       <div class="row align-items-start toolDetailsPg toolDetailsPgNewWrap">
         <div class="col-md-12 pl-md-16 pl-12 px-8 pr-sm-16">
           <div class="text-content assignmenttext">
-            <b>Job Support/Interview Support Services at NNIT Soft:</b>
+            <b>Job Support Services at NNIT Soft:</b>
             <p>
-              NNIT Soft offers comprehensive Job Support and Interview Support Services
-              designed to help individuals prepare for job interviews, enhance their
-              skills, and succeed in their careers. With a focus on practical training,
-              personalized guidance, and industry insights, we provide end-to-end support
-              to empower individuals to secure their dream jobs and excel in their
-              professional endeavors.
+              NNIT Soft offers comprehensive Job Support Services designed to help
+              individuals prepare for jobs, enhance their skills, and succeed in their
+              careers. With a focus on practical training, personalized guidance, and
+              industry insights, we provide end-to-end support to empower individuals to
+              secure their dream jobs and excel in their professional endeavors.
             </p>
             <b>Personalized Job Preparation:</b>
             <p>
@@ -33,17 +30,6 @@
               experienced career coaches and industry experts works closely with you to
               assess your skills, identify your strengths and weaknesses, and develop a
               customized job preparation plan that aligns with your career objectives.
-            </p>
-            <b>Mock Interviews and Feedback:</b>
-
-            <p>
-              Interview preparation is crucial for success in today's competitive job
-              market. Our Interview Support Services include mock interviews and
-              constructive feedback sessions designed to help you refine your interview
-              skills, build confidence, and perform your best during real interviews. Our
-              experienced interviewers simulate real interview scenarios, ask challenging
-              questions, and provide valuable feedback to help you identify areas for
-              improvement and make a positive impression on potential employers.
             </p>
 
             <b>Technical Skill Enhancement:</b>
@@ -83,11 +69,11 @@
             <b>Experience the NNIT Soft Advantage:</b>
             <p>
               Experience the NNIT Soft advantage and unlock the full potential of your
-              career with our Job Support and Interview Support Services. With our
-              personalized approach, practical training, and commitment to your success,
-              we help you overcome challenges, maximize opportunities, and achieve your
-              career goals. Partner with NNIT Soft and take the next step towards a
-              successful and fulfilling career.
+              career with our Job SupportServices. With our personalized approach,
+              practical training, and commitment to your success, we help you overcome
+              challenges, maximize opportunities, and achieve your career goals. Partner
+              with NNIT Soft and take the next step towards a successful and fulfilling
+              career.
             </p>
           </div>
         </div>
@@ -95,11 +81,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

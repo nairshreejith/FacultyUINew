@@ -17,7 +17,7 @@
 
           <p class="text-center">
             At NNIT Soft, we epitomize cutting-edge technology, research-driven outcomes,
-            and solution-oriented commitment. Established in 2005, NNIT Soft is a premier
+            and solution-oriented commitment. Established in 2016, NNIT Soft is a premier
             India-based IT services provider, specializing in bespoke development
             solutions for ecommerce, Salesforce, web applications, UI/UX designs, data
             management, Shopify, networking, and strategic staffing services. We stand

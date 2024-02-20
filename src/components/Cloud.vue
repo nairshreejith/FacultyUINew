@@ -1,12 +1,12 @@
 <template>
   <div>
-    <div class="sixteentosix omt-6 omt-md-25">
+    <div class="sixteentosix omt-md-25">
       <div
         class="kachelimage header-image"
         style="background: url('static/img/assignment.png')"
       >
         <div class="headline">
-          <div class="text-subtitle-2 text-md-h5">Cloud Services:</div>
+          <div class="text-subtitle-2 text-md-h5">Cloud Services</div>
         </div>
       </div>
     </div>
@@ -26,12 +26,13 @@
             <b>Custom Cloud Solutions:</b>
 
             <p>
-              Our Cloud Services include custom cloud solutions tailored to your specific
-              business needs and requirements. Whether you're looking to migrate your
-              existing infrastructure to the cloud, build cloud-native applications, or
-              optimize your cloud environment for performance and cost-effectiveness, our
-              team of cloud experts works closely with you to design and deploy tailored
-              solutions that align with your unique challenges and objectives.
+              Our Cloud Services include custom cloud solutions along with Cloud AWS GCP
+              Azure support and tailored to your specific business needs and requirements.
+              Whether you're looking to migrate your existing infrastructure to the cloud,
+              build cloud-native applications, or optimize your cloud environment for
+              performance and cost-effectiveness, our team of cloud experts works closely
+              with you to design and deploy tailored solutions that align with your unique
+              challenges and objectives.
             </p>
             <b>Cloud Migration and Deployment:</b>
             <p>
@@ -93,11 +94,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

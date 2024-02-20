@@ -24,9 +24,9 @@
             </p>
 
             <p>
-              Assignment help for Django at NNIT SOFT: We at NNIT SOFT
-              provide answers for any Django-related issues, including Django assignment
-              help, project aid, and coursework assistance from Django specialists.
+              Assignment help for Django at NNIT SOFT: We at NNIT SOFT provide answers for
+              any Django-related issues, including Django assignment help, project aid,
+              and coursework assistance from Django specialists.
             </p>
 
             <h4>Describe Flux.</h4>
@@ -38,8 +38,8 @@
             </p>
 
             <p>
-              Flux Assignment Help at NNIT SOFT: Flux assignment help at
-              NNIT SOFT is here to help you with your homework and assignments.
+              Flux Assignment Help at NNIT SOFT: Flux assignment help at NNIT SOFT is here
+              to help you with your homework and assignments.
             </p>
 
             <h4>Describe React JS</h4>
@@ -75,10 +75,10 @@
             </p>
 
             <p>
-              NNIT SOFT's Vue.Js Assignment Help: Are you looking for Vue.js
-              specialists who can assist you with this assignment? So you've arrived where
-              you need to be. We have a group of developers who are highly skilled and
-              experienced in handling Vue. js-related work.
+              NNIT SOFT's Vue.Js Assignment Help: Are you looking for Vue.js specialists
+              who can assist you with this assignment? So you've arrived where you need to
+              be. We have a group of developers who are highly skilled and experienced in
+              handling Vue. js-related work.
             </p>
 
             <h4>Describe Spring Boot.</h4>
@@ -91,9 +91,9 @@
             </p>
 
             <p>
-              NNIT SOFT's Spring Boot assignment help: The most popular Java
-              framework is called Spring Boot. If you want your Java application to get
-              off the ground quickly, Spring Boot can help.
+              NNIT SOFT's Spring Boot assignment help: The most popular Java framework is
+              called Spring Boot. If you want your Java application to get off the ground
+              quickly, Spring Boot can help.
             </p>
 
             <h4>What exactly is .NET?</h4>
@@ -105,9 +105,9 @@
             </p>
 
             <p>
-              Help with .NET Assignments at NNIT SOFT: A programming language
-              taught in colleges and universities is called .Net. Students initially find
-              it difficult to learn the language, therefore they seek the assistance of
+              Help with .NET Assignments at NNIT SOFT: A programming language taught in
+              colleges and universities is called .Net. Students initially find it
+              difficult to learn the language, therefore they seek the assistance of
               professionals to finish the task.
             </p>
 
@@ -120,15 +120,14 @@
             </p>
 
             <p>
-              Laravel Assignment Help at NNIT SOFT: Students who want to create
-              the best web apps should be well-versed in PHP, the most popular web
-              development language.
+              Laravel Assignment Help at NNIT SOFT: Students who want to create the best
+              web apps should be well-versed in PHP, the most popular web development
+              language.
             </p>
 
             <p>
-              NNIT SOFT is a team of dedicated, passionate and experienced
-              developers. We work on the latest technologies and build amazing things for
-              our clients.
+              NNIT SOFT is a team of dedicated, passionate and experienced developers. We
+              work on the latest technologies and build amazing things for our clients.
             </p>
           </div>
         </div>
@@ -136,12 +135,3 @@
     </div>
   </div>
 </template>
-
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

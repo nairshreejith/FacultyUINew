@@ -51,9 +51,8 @@
               </li>
               <li>
                 Is there anyone who can complete my <b>project management</b> assignment
-                in such circumstances? The good news is that
-                <b>NNIT SOFT.com </b>is available to assist you with your project
-                management homework.
+                in such circumstances? The good news is that <b>NNIT SOFT.com </b>is
+                available to assist you with your project management homework.
               </li>
             </ul>
             <p>
@@ -138,11 +137,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

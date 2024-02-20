@@ -21,11 +21,10 @@
                 <img src="../assets/location.png" width="20px" />
               </div>
               <div class="text-content text-center">
-                NNIT SOFT Pvt Ltd<br />
-                1234 Elm Street<br />
-                Apt 567<br />
-                Springfield, IL 12345<br />
-                United States
+                F 103, Adani M2k oyster grande <br />
+                Gurugram , Sector 102,<br />
+                122505<br />
+                India
               </div>
             </div>
           </div>
@@ -35,12 +34,13 @@
         <div class="col-md-4">
           <div class="card mb-4 h-100">
             <div class="card-body text-center">
-              <div class="text-subtitle-2 text-md-h5 text-center"><b>Office Timings</b></div>
+              <div class="text-subtitle-2 text-md-h5 text-center">
+                <b>Office Timings</b>
+              </div>
               <div class="text-content">
-                <img src="../assets/calender.png" width="20px" />Mon to Fri
-                <img src="../assets/time.png" width="20px" /> 10 am - 8 pm IST<br />
-                <img src="../assets/calender.png" width="20px" />Sat to Sun
-                <img src="../assets/time.png" width="20px" /> 10 am - 5 pm IST
+                <img src="../assets/calender.png" width="20px" />All 7 days
+                <img src="../assets/time.png" width="20px" /> EST, CST, MST, PST, GMT and
+                IST , we are available 24/7<br />
               </div>
             </div>
           </div>
@@ -50,23 +50,18 @@
         <div class="col-md-4">
           <div class="card mb-4 h-100">
             <div class="card-body text-center">
-              <div class="text-subtitle-2 text-md-h5 text-center"><b>Contact Details</b></div>
+              <div class="text-subtitle-2 text-md-h5 text-center">
+                <b>Contact Details</b>
+              </div>
               <div class="text-content">
                 <a href="/"
-                  ><img src="../assets/phonelogo.png" width="50px" />+91-83880 88212</a
+                  ><img src="../assets/phonelogo.png" width="50px" />+91-9650405268</a
                 ><br />
                 <a href="/"
                   ><img
                     src="../assets/emailassignment.png"
                     width="50px"
-                  />help@NNIT SOFT.com</a
-                >
-                <br />
-                <a href="/"
-                  ><img
-                    src="../assets/emaillogo.png"
-                    width="50px"
-                  />help.NNIT SOFT@gmail.com</a
+                  />nimish@nnitsoft.com</a
                 >
                 <br />
               </div>

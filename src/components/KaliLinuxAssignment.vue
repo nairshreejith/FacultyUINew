@@ -121,9 +121,8 @@
 
             <p>
               Do you have questions about using Kali Linux? The topics we cover while
-              offering Kali Linux assignment help are listed below. The experts at
-              NNIT SOFT.com can help with Kali Linux assignments on the following
-              subjects:
+              offering Kali Linux assignment help are listed below. The experts at NNIT
+              SOFT.com can help with Kali Linux assignments on the following subjects:
             </p>
 
             <p>
@@ -187,11 +186,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

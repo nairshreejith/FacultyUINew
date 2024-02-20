@@ -28,6 +28,7 @@ import Devops from "../components/Devops.vue";
 
 //Technical Assignment
 import ITAssignment from "../components/ITAssignment.vue";
+import ContentManagement from "../components/ContentManagement.vue";
 import ComputerScienceAssignment from "../components/ComputerScienceAssignment.vue";
 import ComputerNetworkAssignment from "../components/ComputerNetworkAssignment.vue";
 import MatlabAssignment from "../components/MatlabAssignment.vue";
@@ -179,6 +180,11 @@ const routes = [
     path: "/IT-services",
     name: "ITAssignment",
     component: ITAssignment,
+  },
+  {
+    path: "/content-management-services",
+    name: "ContentManagement",
+    component: ContentManagement,
   },
   {
     path: "/computer-science-services",

@@ -11,7 +11,8 @@
           <div class="pb-0">
             <div class="row justify-content-between align-self-center menu-bar">
               <div class="top-bar-title scroll-content">
-                Get upto 60% discount on your First Project/Job Support!!!
+                "Transform your brand with custom web solutions that captivate and
+                convert."
               </div>
 
               <div class="top-Left-wrap">
@@ -34,7 +35,7 @@
                           class="headerimg"
                           width="25px"
                         />
-                        <span class="pl-3"> +91-83880 88212</span></a
+                        <span class="pl-3"> +91-9650405268</span></a
                       >
                       <a class="pl-3 text-lowercase" href="/"
                         ><img
@@ -42,7 +43,7 @@
                           class="headerimg"
                           width="25px"
                         />
-                        <span class="pl-3"> help@NNIT SOFT.com</span></a
+                        <span class="pl-3">nimish@nnitsoft.com</span></a
                       >
                     </div></v-btn
                   >
@@ -63,7 +64,7 @@
                     large
                     >About Us</v-btn
                   >
-                  <v-btn
+                  <!-- <v-btn
                     to="/sample"
                     :ripple="false"
                     class="mr-5 mt-5 no-background-hover headerbtn mbres text-capitalize text-capitalize"
@@ -78,7 +79,7 @@
                     text
                     large
                     >Experts</v-btn
-                  >
+                  > -->
 
                   <v-btn
                     to="/contact-us"
@@ -323,7 +324,7 @@
                         >Computer Network Services</v-btn
                       >
                     </div>
-                    <div class="col-4">
+                    <!-- <div class="col-4">
                       <v-btn
                         to="technical-services"
                         :ripple="false"
@@ -332,7 +333,7 @@
                         large
                         >Technical Services</v-btn
                       >
-                    </div>
+                    </div> -->
                     <div class="col-4">
                       <v-btn
                         to="matlab-services"
@@ -505,6 +506,16 @@
                         >Power BI Services</v-btn
                       >
                     </div>
+                    <div class="col-4">
+                      <v-btn
+                        to="content-management-services"
+                        :ripple="false"
+                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
+                        text
+                        large
+                        >Content Management Services</v-btn
+                      >
+                    </div>
                   </div>
                   <div class="col-xl-3 pa-0 d-none d-xl-block">
                     <div class="sixteentonine">
@@ -668,7 +679,7 @@
               class="no-background-hover headerbtn mbres text-capitalize"
               text
               large
-              >Job Support/Interview Support
+              >Job Support Services
             </v-btn>
           </div>
           <div class="header-divider"></div>
@@ -1038,6 +1049,19 @@
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
+
+            <v-list-item
+              sub-group
+              link
+              class="d-xl-none"
+              to="/content-management-services"
+            >
+              <v-list-item-content>
+                <v-list-item-title class="text-uppercase font-16px">
+                  Content Management Services
+                </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
           </v-list-group>
 
           <v-list-group
@@ -1161,7 +1185,7 @@
           <v-list-item class="d-xl-none" to="/job-interview-support">
             <v-list-item-content>
               <v-list-item-title class="text-uppercase font-16px">
-                JOb Support / Interview Support
+                JOb Support Services
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -1171,7 +1195,9 @@
         <router-view class="mb-12"></router-view>
       </v-main>
       <div class="sticky-icon">
-        <img src="./assets/whatsapp.png" width="60px" alt="Sticky Icon" />
+        <a href="https://wa.me/7838481871" target="_blank">
+          <img src="./assets/whatsapp.png" width="60px" alt="Sticky Icon" />
+        </a>
       </div>
       <v-bottom-navigation
         :input-value="footdrawer"
@@ -1208,7 +1234,7 @@
               >About Us</a
             >
             <br />
-            <a
+            <!-- <a
               @click="$router.push('/sample')"
               :ripple="false"
               text
@@ -1225,8 +1251,8 @@
               style="text-decoration: none"
               class="px-6 footerbtn text-white no-background-hover"
               >Experts</a
-            >
-            <br />
+            > -->
+            <!-- <br /> -->
             <a
               @click="$router.push('/contact-us')"
               :ripple="false"
@@ -1275,23 +1301,23 @@
             <div href="/">
               <img src="./assets/phonelogo.png" width="30px" class="mr-3" /><span
                 class="text-white"
-                >+91-83880 88212</span
+                >+91-9650405268</span
               >
             </div>
             <br />
             <div href="/">
               <img src="./assets/emailassignment.png" width="35px" class="mr-3" /><span
                 class="text-white"
-                >help@NNIT SOFT.com</span
+                >nimish@nnitsoft.com</span
               >
             </div>
             <br />
-            <div href="/">
+            <!-- <div href="/">
               <img src="./assets/emaillogo.png" width="35px" class="mr-3" /><span
                 class="text-white"
                 >help.NNIT SOFT@gmail.com</span
               >
-            </div>
+            </div> -->
           </div>
         </div>
 
@@ -1316,10 +1342,10 @@
             /></a>
             <p class="mt-5 text-white" style="text-align: center">
               NNIT SOFT Pvt Ltd<br />
-              1234 Elm Street<br />
-              Apt 567<br />
-              Springfield, IL 12345<br />
-              United States
+              F 103, Adani M2k oyster grande<br />
+              Gurugram , Sector 102,<br />
+              122505<br />
+              India
             </p>
           </div>
         </div>

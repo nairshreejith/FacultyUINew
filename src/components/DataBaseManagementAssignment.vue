@@ -18,12 +18,11 @@
 
             <p>
               <b
-                >Database assignment help is available from the reputable website
-                NNIT SOFT at a reasonable cost. A database is a collection of
-                related facts that simulates a real-world entity in some way. You might
-                need help with your database assignment to create schema, design, and
-                model, write queries, or convert database models to relational
-                databases.</b
+                >Database assignment help is available from the reputable website NNIT
+                SOFT at a reasonable cost. A database is a collection of related facts
+                that simulates a real-world entity in some way. You might need help with
+                your database assignment to create schema, design, and model, write
+                queries, or convert database models to relational databases.</b
               >
             </p>
 
@@ -115,25 +114,25 @@
 
             <p>
               <b
-                >At NNIT SOFT, we provide customized solutions based on your
-                specific assignment requirements and the DBMS you are using. Our team of
-                experts ensures that your assignments are not only completed accurately
-                but also meet academic standards and deadlines. Whether you are a beginner
-                or an advanced learner, our assistance is tailored to your level of
+                >At NNIT SOFT, we provide customized solutions based on your specific
+                assignment requirements and the DBMS you are using. Our team of experts
+                ensures that your assignments are not only completed accurately but also
+                meet academic standards and deadlines. Whether you are a beginner or an
+                advanced learner, our assistance is tailored to your level of
                 understanding, making complex database concepts more accessible.</b
               >
             </p>
 
             <h4>
-              How Can NNIT SOFT Assist Students with Their Projects Throughout
-              Their Degree Programs?
+              How Can NNIT SOFT Assist Students with Their Projects Throughout Their
+              Degree Programs?
             </h4>
 
             <p>
               <b
-                >At NNIT SOFT, we understand that succeeding in a degree program
-                involves more than just submitting assignments on time. Here's how we
-                support students throughout their academic journey:</b
+                >At NNIT SOFT, we understand that succeeding in a degree program involves
+                more than just submitting assignments on time. Here's how we support
+                students throughout their academic journey:</b
               >
             </p>
 
@@ -163,14 +162,12 @@
               successful future.
             </p>
 
-            <h4>
-              Why Should You Choose NNIT SOFT for Your Cybersecurity Projects?
-            </h4>
+            <h4>Why Should You Choose NNIT SOFT for Your Cybersecurity Projects?</h4>
 
             <p>
               <b
-                >Choosing NNIT SOFT as your academic partner in cybersecurity has
-                several advantages:</b
+                >Choosing NNIT SOFT as your academic partner in cybersecurity has several
+                advantages:</b
               >
             </p>
 
@@ -205,9 +202,9 @@
             </p>
 
             <p>
-              <b>Proven Track Record:</b> NNIT SOFT has a history of helping
-              students achieve academic success. Many of our clients have excelled in
-              their degree programs with our support.
+              <b>Proven Track Record:</b> NNIT SOFT has a history of helping students
+              achieve academic success. Many of our clients have excelled in their degree
+              programs with our support.
             </p>
           </div>
         </div>
@@ -215,11 +212,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

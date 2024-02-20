@@ -165,14 +165,13 @@
             <h4>Reasons to contact us for your Assignment</h4>
 
             <p>
-              NNIT SOFT is One of the most popular tasks completed by our experts
-              is completing Software Engineering assignments, and we are an effective
-              source of this help in India. Students from varied backgrounds can deepen
-              their understanding of science, technology, correspondence, etc. Our
-              professionals have years of experience, and we guarantee to give you the
-              best solutions. With our experts help, you can achieve good academic
-              standing and direct your future in IT. Make contact us to finish any
-              unfinished assignments.
+              NNIT SOFT is One of the most popular tasks completed by our experts is
+              completing Software Engineering assignments, and we are an effective source
+              of this help in India. Students from varied backgrounds can deepen their
+              understanding of science, technology, correspondence, etc. Our professionals
+              have years of experience, and we guarantee to give you the best solutions.
+              With our experts help, you can achieve good academic standing and direct
+              your future in IT. Make contact us to finish any unfinished assignments.
             </p>
           </div>
         </div>
@@ -180,11 +179,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>

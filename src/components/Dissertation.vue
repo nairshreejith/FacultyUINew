@@ -29,9 +29,9 @@
 
             <p>
               <b
-                >You can meet all your dissertation demands at NNIT SOFT on a
-                budget. Our dissertation writing assistance service offers fast assignment
-                completion, thorough research, uniqueness, exact formatting, and precise
+                >You can meet all your dissertation demands at NNIT SOFT on a budget. Our
+                dissertation writing assistance service offers fast assignment completion,
+                thorough research, uniqueness, exact formatting, and precise
                 referencing.</b
               >
             </p>
@@ -162,11 +162,3 @@
     </div>
   </div>
 </template>
-<script>
-import AssignmentRequest from "./AssignmentRequest.vue";
-export default {
-  components: {
-    AssignmentRequest,
-  },
-};
-</script>
