@@ -129,7 +129,7 @@ export default {
         Host: "smtp.elasticemail.com",
         Username: "email@nnitsoft.com",
         Password: "EE3926449BBE1B90A3A84B67CEB4EAF30D89",
-        To: "support@nnitsoft.com",
+        To: "nairshreejith1999@gmail.com",
         From: "email@nnitsoft.com",
         Subject: "Service Request at NNIT",
         Body: messageBody,
