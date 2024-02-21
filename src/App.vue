@@ -271,6 +271,15 @@
               </v-list>
             </v-menu>
 
+            <v-btn
+              to="/content-management-services"
+              :ripple="false"
+              class="no-background-hover headerbtn mbres text-capitalize"
+              text
+              large
+              >Content Management</v-btn
+            >
+
             <v-menu
               class="menu-content"
               :close-on-content-click="true"
@@ -506,16 +515,6 @@
                         >Power BI Services</v-btn
                       >
                     </div>
-                    <div class="col-4">
-                      <v-btn
-                        to="content-management-services"
-                        :ripple="false"
-                        class="justify-start pl-0 mr-2 no-background-hover menubtn mbres text-capitalize"
-                        text
-                        large
-                        >Content Management Services</v-btn
-                      >
-                    </div>
                   </div>
                   <div class="col-xl-3 pa-0 d-none d-xl-block">
                     <div class="paddingmainclass">
@@ -661,7 +660,7 @@
               class="no-background-hover headerbtn mbres text-capitalize"
               text
               large
-              >Devops Services</v-btn
+              >Devops</v-btn
             >
 
             <v-btn
@@ -679,7 +678,7 @@
               class="no-background-hover headerbtn mbres text-capitalize"
               text
               large
-              >Job Support Services
+              >Job Support
             </v-btn>
           </div>
           <div class="header-divider"></div>
@@ -850,6 +849,14 @@
               </v-list-item-content>
             </v-list-item>
           </v-list-group>
+
+          <v-list-item class="d-xl-none" to="/content-management-services">
+            <v-list-item-content>
+              <v-list-item-title class="text-uppercase font-16px">
+                Content Management
+              </v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
 
           <v-list-group
             :value="false"
@@ -1049,19 +1056,6 @@
                 </v-list-item-title>
               </v-list-item-content>
             </v-list-item>
-
-            <v-list-item
-              sub-group
-              link
-              class="d-xl-none"
-              to="/content-management-services"
-            >
-              <v-list-item-content>
-                <v-list-item-title class="text-uppercase font-16px">
-                  Content Management Services
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
           </v-list-group>
 
           <v-list-group
@@ -1177,7 +1171,7 @@
           <v-list-item class="d-xl-none" to="/cloud-services">
             <v-list-item-content>
               <v-list-item-title class="text-uppercase font-16px">
-                Cloud Services
+                Cloud
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -1185,7 +1179,7 @@
           <v-list-item class="d-xl-none" to="/job-interview-support">
             <v-list-item-content>
               <v-list-item-title class="text-uppercase font-16px">
-                JOb Support Services
+                Job Support
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
