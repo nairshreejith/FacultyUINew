@@ -30,15 +30,6 @@
             :label="'Subject'"
             v-model="subject"
           ></v-text-field>
-
-          <v-textarea
-            hide-details="auto"
-            class="datainput justify-content-end align-self-center"
-            dense
-            outlined
-            :label="'Comments'"
-            :rows="3"
-          ></v-textarea>
         </div>
 
         <div class="col-md-6">
@@ -51,6 +42,7 @@
               name="deadline"
               required
               style="margin-bottom: 0.6rem !important"
+              v-model="deadline"
             />
           </div>
 
@@ -62,9 +54,22 @@
             dense
             outlined
             :label="'Technology'"
-            v-model="subject"
+            v-model="technology"
           ></v-text-field>
-          <Upload v-model="assignmentDocumentList" multiple allowOtherFileTypes />
+          <!-- <Upload v-model="assignmentDocumentList" multiple allowOtherFileTypes /> -->
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <v-textarea
+              hide-details="auto"
+              class="datainput justify-content-end align-self-center"
+              dense
+              outlined
+              :label="'Comments'"
+              :rows="3"
+              v-model="comments"
+            ></v-textarea>
+          </div>
         </div>
       </div>
       <div class="col-md-12 py-0 mt-0 text-white">
@@ -77,13 +82,14 @@
       </div>
 
       <div class="col-md-12 pb-0 lastBtnSubmit text-center">
-        <v-btn outlined depressed tile class="savebutton mr-2"
+        <v-btn @click="submit()" outlined depressed tile class="savebutton mr-2"
           >Submit <img src="../assets/send.png" width="20px"
         /></v-btn>
       </div>
     </div>
   </div>
 </template>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
 <script>
 import Upload from "./Upload.vue";
 export default {
@@ -94,8 +100,11 @@ export default {
     return {
       uploadUrl: "/api/upload", // Replace with your backend API URL for handling file upload
       assignmentDocumentList: [],
-      email: "",
-      subject: "",
+      email: null,
+      subject: null,
+      comments: null,
+      deadline: null,
+      technology: null,
       consentprivacy: true,
     };
   },
@@ -103,6 +112,28 @@ export default {
     onFileChange(file) {
       // File object contains information about the uploaded document
       this.documentData = file;
+    },
+    submit() {
+      let messageBody =
+        "Email:  " +
+        this.email +
+        "<br/> Deadline:  " +
+        this.deadline +
+        "<br/> Subject:  " +
+        this.subject +
+        "<br/> Technology:  " +
+        this.technology +
+        "<br/> Comments:  " +
+        this.comments;
+      Email.send({
+        Host: "smtp.elasticemail.com",
+        Username: "email@nnitsoft.com",
+        Password: "EE3926449BBE1B90A3A84B67CEB4EAF30D89",
+        To: "support@nnitsoft.com",
+        From: "email@nnitsoft.com",
+        Subject: "Service Request at NNIT",
+        Body: messageBody,
+      }).then((message) => console.log(message));
     },
   },
 };
